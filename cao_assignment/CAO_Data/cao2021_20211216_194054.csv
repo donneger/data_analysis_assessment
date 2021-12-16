@@ -1,0 +1,1008 @@
+Course Code,Course Title,HEI Code,HEI,ISCED,R1 Points,Year
+AL801,Software Design for Virtual Reality and Gaming,AL,Athlone Institute of Technology,Information and Communication Technologies (ICTs),300,2021
+AL802,Software Design in Artificial Intelligence for Cloud Computing,AL,Athlone Institute of Technology,Information and Communication Technologies (ICTs),313,2021
+AL803,Software Design for Mobile Apps and Connected Devices,AL,Athlone Institute of Technology,Information and Communication Technologies (ICTs),350,2021
+AL805,Computer Engineering for Network Infrastructure,AL,Athlone Institute of Technology,Information and Communication Technologies (ICTs),321,2021
+AL810,Quantity Surveying,AL,Athlone Institute of Technology,Architecture and construction,328,2021
+AL820,Mechanical and Polymer Engineering,AL,Athlone Institute of Technology,Manufacturing and processing,327,2021
+AL830,General Nursing,AL,Athlone Institute of Technology,Health,451,2021
+AL832,Mental Health Nursing,AL,Athlone Institute of Technology,Health,440,2021
+AL835,Pharmacology,AL,Athlone Institute of Technology,Biological and related sciences,356,2021
+AL836,Nutrition and Health Science,AL,Athlone Institute of Technology,Health,346,2021
+AL837,Sports Science with Exercise Physiology,AL,Athlone Institute of Technology,Personal services,357,2021
+AL838,Biotechnology,AL,Athlone Institute of Technology,Biological and related sciences,324,2021
+AL839,Microbiology,AL,Athlone Institute of Technology,Biological and related sciences,325,2021
+AL840,Pharmaceutical Sciences,AL,Athlone Institute of Technology,Physical sciences,346,2021
+AL841,Athletic and Rehabilitation Therapy,AL,Athlone Institute of Technology,Health,477,2021
+AL842,Bioveterinary Science,AL,Athlone Institute of Technology,Biological and related sciences,338,2021
+AL843,Physical Activity and Health Science,AL,Athlone Institute of Technology,Health,306,2021
+AL849,Culinary Entrepreneurship,AL,Athlone Institute of Technology,Personal services,297,2021
+AL850,Business,AL,Athlone Institute of Technology,Business and administration,309,2021
+AL851,Business and Law,AL,Athlone Institute of Technology,Law,302,2021
+AL852,Accounting,AL,Athlone Institute of Technology,Business and administration,336,2021
+AL854,Sport Management (with international placement),AL,Athlone Institute of Technology,Personal services,300,2021
+AL855,Hospitality Management (with international placement),AL,Athlone Institute of Technology,Personal services,309,2021
+AL857,Digital Marketing,AL,Athlone Institute of Technology,Business and administration,304,2021
+AL859,International Business,AL,Athlone Institute of Technology,Business and administration,308,2021
+AL860,Social Care Practice,AL,Athlone Institute of Technology,Welfare,301,2021
+AL861,Animation and Illustration (portfolio),AL,Athlone Institute of Technology,Arts,575,2021
+AL863,Graphic and Digital Design (portfolio),AL,Athlone Institute of Technology,Arts,747,2021
+AL864,Early Years Care and Education,AL,Athlone Institute of Technology,Welfare,306,2021
+AL870,Applied Psychology,AL,Athlone Institute of Technology,Social and behavioural sciences,484,2021
+CW018,Business (options),CW,"Institute of Technology, Carlow",Business and administration,307,2021
+CW028,Early Childhood Education and Care,CW,"Institute of Technology, Carlow",Welfare,260,2021
+CW038,Art (portfolio),CW,"Institute of Technology, Carlow",Arts,#700,2021
+CW058,Tourism and Event Management,CW,"Institute of Technology, Carlow",Personal services,292,2021
+CW068,Applied Social Studies in Professional Social Care,CW,"Institute of Technology, Carlow",Welfare,250,2021
+CW078,Sustainable Farm Management and Agribusiness,CW,"Institute of Technology, Carlow",Agriculture,270,2021
+CW088,Visual Communications and Design,CW,"Institute of Technology, Carlow",Arts,270,2021
+CW108,Science (options),CW,"Institute of Technology, Carlow",Biological and related sciences,266,2021
+CW128,Brewing and Distilling,CW,"Institute of Technology, Carlow",Manufacturing and processing,307,2021
+CW138,Sport and Exercise Science,CW,"Institute of Technology, Carlow",Personal services,430,2021
+CW148,Strength and Conditioning,CW,"Institute of Technology, Carlow",Personal services,388,2021
+CW188,Sport Rehabilitation and Athletic Therapy,CW,"Institute of Technology, Carlow",Health,451,2021
+CW208,Computer Games Development,CW,"Institute of Technology, Carlow",Information and Communication Technologies (ICTs),272,2021
+CW238,Software Development,CW,"Institute of Technology, Carlow",Information and Communication Technologies (ICTs),295,2021
+CW248,Information Technology Management,CW,"Institute of Technology, Carlow",Information and Communication Technologies (ICTs),293,2021
+CW258,Cybercrime and IT Security,CW,"Institute of Technology, Carlow",Information and Communication Technologies (ICTs),292,2021
+CW268,Computing in Interactive Digital Art and Design,CW,"Institute of Technology, Carlow",Information and Communication Technologies (ICTs),291,2021
+CW438,Construction (options),CW,"Institute of Technology, Carlow",Architecture and construction,260,2021
+CW468,Architectural Technology,CW,"Institute of Technology, Carlow",Architecture and construction,291,2021
+CW478,Civil Engineering,CW,"Institute of Technology, Carlow",Architecture and construction,465,2021
+CW548,Mechanical Engineering,CW,"Institute of Technology, Carlow",Engineering and engineering trades,330,2021
+CW558,Electronic Systems,CW,"Institute of Technology, Carlow",Engineering and engineering trades,280,2021
+CW568,Aerospace Engineering,CW,"Institute of Technology, Carlow",Engineering and engineering trades,371,2021
+CW578,TV and Media Production,CW,"Institute of Technology, Carlow",Arts,318,2021
+CW708,Law - LLB,CW,"Institute of Technology, Carlow",Law,292,2021
+CW728,Product Design Innovation,CW,"Institute of Technology, Carlow",Arts,246,2021
+CW748,Early Childhood Education and Care,CW,"Institute of Technology, Carlow",Welfare,290,2021
+CW758,Professional Social Care Practice,CW,"Institute of Technology, Carlow",Welfare,360,2021
+CW808,Media and Public Relations,CW,"Institute of Technology, Carlow",Business and administration,247,2021
+CW848,Digital Marketing with Analytics,CW,"Institute of Technology, Carlow",Business and administration,269,2021
+CW858,"Sports Management and Coaching (options, portfolio)",CW,"Institute of Technology, Carlow",Personal services,700,2021
+CW908,Business (options),CW,"Institute of Technology, Carlow",Business and administration,272,2021
+CW938,Business with Law,CW,"Institute of Technology, Carlow",Business and administration,270,2021
+CW948,Accounting,CW,"Institute of Technology, Carlow",Business and administration,319,2021
+PC405,"Social, Political and Community Studies",PC,"Carlow College, St. Patrick`s",Social and behavioural sciences,263,2021
+PC410,Arts and Humanities (fulfils Teaching Council requirements),PC,"Carlow College, St. Patrick`s",Humanities (except languages),262,2021
+PC411,English and History (fulfils Teaching Council requirements),PC,"Carlow College, St. Patrick`s",Humanities (except languages),243,2021
+CR105,Chemical and Biopharmaceutical Engineering,CR,Cork Institute of Technology,Engineering and engineering trades,443,2021
+CR106,Software Development,CR,Cork Institute of Technology,Information and Communication Technologies (ICTs),431,2021
+CR108,Mechanical Engineering,CR,Cork Institute of Technology,Engineering and engineering trades,434,2021
+CR109,Structural Engineering,CR,Cork Institute of Technology,Architecture and construction,396,2021
+CR110,Automotive Business Management and Technology,CR,Cork Institute of Technology,Transport services,336,2021
+CR112,Creative Digital Media at CIT Crawford College of Art and Design,CR,Cork Institute of Technology,Arts,390,2021
+CR116,Computer Systems,CR,Cork Institute of Technology,Information and Communication Technologies (ICTs),365,2021
+CR121,Music at CIT Cork School of Music,CR,Cork Institute of Technology,Arts,904,2021
+CR125,Popular Music at CIT Cork School of Music,CR,Cork Institute of Technology,Arts,1028,2021
+CR130,Musical Theatre at CIT Cork School of Music,CR,Cork Institute of Technology,Arts,525,2021
+CR150,Business Information Systems,CR,Cork Institute of Technology,Business and administration,350,2021
+CR210,"Contemporary Applied Art (Ceramics, Glass, Textiles) at CIT Crawford",CR,Cork Institute of Technology,Arts,450,2021
+CR220,Fine Art at CIT Crawford College of Art and Design,CR,Cork Institute of Technology,Arts,400,2021
+CR225,Photography with New Media at CIT Crawford College of Art and Design,CR,Cork Institute of Technology,Arts,435,2021
+CR305,Physical Sciences (Common Entry),CR,Cork Institute of Technology,Physical sciences,260,2021
+CR310,IT Management,CR,Cork Institute of Technology,Information and Communication Technologies (ICTs),347,2021
+CR320,Biomedical Science - Offered jointly by CIT and UCC,CR,Cork Institute of Technology,Biological and related sciences,590,2021
+CR325,Pharmaceutical Biotechnology,CR,Cork Institute of Technology,Biological and related sciences,466,2021
+CR333,Nutrition and Health Science,CR,Cork Institute of Technology,Health,425,2021
+CR335,Biological Sciences (Common Entry),CR,Cork Institute of Technology,Biological and related sciences,473,2021
+CR340,Analytical Chemistry with Quality Assurance,CR,Cork Institute of Technology,Physical sciences,327,2021
+CR360,Instrument Engineering,CR,Cork Institute of Technology,Physical sciences,301,2021
+CR365,Environmental Science and Sustainable Technology,CR,Cork Institute of Technology,Environment,262,2021
+CR370,Agri-Biosciences,CR,Cork Institute of Technology,"Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",368,2021
+CR400,Accounting,CR,Cork Institute of Technology,Business and administration,315,2021
+CR420,Marketing,CR,Cork Institute of Technology,Business and administration,290,2021
+CR425,International Business with Language,CR,Cork Institute of Technology,Business and administration,279,2021
+CR430,Sport and Exercise Management,CR,Cork Institute of Technology,Personal services,402,2021
+CR440,Montessori Education,CR,Cork Institute of Technology,Education,409,2021
+CR500,Engineering (Common Entry),CR,Cork Institute of Technology,Engineering and engineering trades,475,2021
+CR510,Sustainable Energy Engineering,CR,Cork Institute of Technology,Environment,320,2021
+CR520,Biomedical Engineering,CR,Cork Institute of Technology,Health,444,2021
+CR560,Architectural Technology,CR,Cork Institute of Technology,Architecture and construction,375,2021
+CR565,Interior Architecture,CR,Cork Institute of Technology,Architecture and construction,431,2021
+CR570,Quantity Surveying,CR,Cork Institute of Technology,Architecture and construction,375,2021
+CR572,Construction Management,CR,Cork Institute of Technology,Architecture and construction,300,2021
+CR580,Electrical Engineering,CR,Cork Institute of Technology,Engineering and engineering trades,342,2021
+CR590,Electronic Engineering,CR,Cork Institute of Technology,Engineering and engineering trades,329,2021
+CR600,Visual Communications at CIT Crawford College of Art and Design,CR,Cork Institute of Technology,Arts,280,2021
+CR660,Tourism Management,CR,Cork Institute of Technology,Personal services,246,2021
+CR700,Theatre and Drama Studies at CIT Cork School of Music,CR,Cork Institute of Technology,Arts,609,2021
+CR930,Home Economics and Business,CR,Cork Institute of Technology,Education,518,2021
+CK101,Arts - 3 years,CK,University College Cork (NUI),Arts,300,2021
+CK102,Social Science,CK,University College Cork (NUI),Social and behavioural sciences,434,2021
+CK104,Arts with Music - 3 or 4 years (BMus or Chinese/European/Int`l Pathway),CK,University College Cork (NUI),Arts,339,2021
+CK105,Film and Screen Media - 3 years or 4 years (International Pathway),CK,University College Cork (NUI),Arts,421,2021
+CK107,Geographical and Archaeological Sciences - 3 or 4 years (Int`l Pathway),CK,University College Cork (NUI),Humanities (except languages),312,2021
+CK108,Arts International - 4 years,CK,University College Cork (NUI),Languages,440,2021
+CK109,English - 3 years or 4 years (International Pathway),CK,University College Cork (NUI),Languages,367,2021
+CK110,World Languages,CK,University College Cork (NUI),Languages,488,2021
+CK111,Early Years and Childhood Studies,CK,University College Cork (NUI),Welfare,409,2021
+CK112,Theatre and Performative Practices - 3 or 4 years (Int`l Pathway),CK,University College Cork (NUI),Arts,371,2021
+CK113,Criminology - 3 years or 4 years (International Pathway),CK,University College Cork (NUI),Social and behavioural sciences,464,2021
+CK114,Social Science (Youth and Community Work),CK,University College Cork (NUI),Welfare,#,2021
+CK118,Digital Humanities and IT - 3 or 4 years (Work Exper. or Int`l Pathway),CK,University College Cork (NUI),Arts,347,2021
+CK120,Applied Psychology,CK,University College Cork (NUI),Social and behavioural sciences,544,2021
+CK121,Psychology and Computing - 3 or 4 years (Work Experience Pathway),CK,University College Cork (NUI),Social and behavioural sciences,499,2021
+CK122,Government and Political Science,CK,University College Cork (NUI),Social and behavioural sciences,399,2021
+CK123,Anthropology,CK,University College Cork (NUI),Humanities (except languages),308,2021
+CK124,Education - Gaeilge,CK,University College Cork (NUI),Education,473,2021
+CK125,Sports Studies and Physical Education,CK,University College Cork (NUI),Education,564,2021
+CK201,Commerce,CK,University College Cork (NUI),Business and administration,500,2021
+CK202,Accounting,CK,University College Cork (NUI),Business and administration,553,2021
+CK203,Business Information Systems,CK,University College Cork (NUI),Information and Communication Technologies (ICTs),455,2021
+CK204,Finance,CK,University College Cork (NUI),Business and administration,566,2021
+CK205,Commerce (International) with French,CK,University College Cork (NUI),Business and administration,465,2021
+CK206,Commerce (International) with German,CK,University College Cork (NUI),Business and administration,466,2021
+CK207,Commerce (International) with Italian,CK,University College Cork (NUI),Business and administration,423,2021
+CK208,Commerce (International) with Hispanic Studies,CK,University College Cork (NUI),Business and administration,488,2021
+CK209,Commerce (International) with Irish,CK,University College Cork (NUI),Business and administration,507,2021
+CK211,Commerce (International) with Chinese Studies,CK,University College Cork (NUI),Business and administration,385,2021
+CK212,Economics (through Transformational Learning) 3 or 4 years Int`l Pathway,CK,University College Cork (NUI),Social and behavioural sciences,445,2021
+CK213,Food Marketing and Entrepreneurship,CK,University College Cork (NUI),Business and administration,466,2021
+CK214,International Development,CK,University College Cork (NUI),Social and behavioural sciences,332,2021
+CK301,Law (Pathways) -  3 or 4 years,CK,University College Cork (NUI),Law,533,2021
+CK302,Law and French,CK,University College Cork (NUI),Law,545,2021
+CK304,Law and Irish,CK,University College Cork (NUI),Law,588,2021
+CK307,Law and Business,CK,University College Cork (NUI),Law,589,2021
+CK401,Computer Science,CK,University College Cork (NUI),Information and Communication Technologies (ICTs),503,2021
+CK402,Biological and Chemical Sciences,CK,University College Cork (NUI),Biological and related sciences,555,2021
+CK404,"Biological, Earth and Environmental Sciences",CK,University College Cork (NUI),Biological and related sciences,500,2021
+CK405,Genetics,CK,University College Cork (NUI),Biological and related sciences,543,2021
+CK406,Chemical Sciences,CK,University College Cork (NUI),Physical sciences,532,2021
+CK407,Mathematical Sciences,CK,University College Cork (NUI),Mathematics and statistics,566,2021
+CK408,Physics and Astrophysics,CK,University College Cork (NUI),Physical sciences,566,2021
+CK409,Industrial Physics - Offered jointly by UCC and CIT,CK,University College Cork (NUI),Physical sciences,465,2021
+CK411,Data Science and Analytics,CK,University College Cork (NUI),Information and Communication Technologies (ICTs),531,2021
+CK412,Agricultural Science,CK,University College Cork (NUI),Agriculture,506,2021
+CK504,Nutritional Sciences,CK,University College Cork (NUI),Biological and related sciences,555,2021
+CK505,Food Science,CK,University College Cork (NUI),Manufacturing and processing,463,2021
+CK600,Engineering,CK,University College Cork (NUI),Engineering and engineering trades,510,2021
+CK606,Architecture - Offered jointly by UCC and CIT,CK,University College Cork (NUI),Architecture and construction,543,2021
+CK701,Medicine (Undergraduate Entry - HPAT required),CK,University College Cork (NUI),Health,738,2021
+CK702,Dentistry,CK,University College Cork (NUI),Health,625,2021
+CK703,Pharmacy,CK,University College Cork (NUI),Health,613,2021
+CK704,Occupational Therapy,CK,University College Cork (NUI),Health,601,2021
+CK705,Speech and Language Therapy,CK,University College Cork (NUI),Health,568,2021
+CK706,Public Health Sciences,CK,University College Cork (NUI),Health,500,2021
+CK707,Medical and Health Sciences,CK,University College Cork (NUI),Health,578,2021
+CK710,General Nursing,CK,University College Cork (NUI),Health,498,2021
+CK712,Children`s and General Nursing (Integrated),CK,University College Cork (NUI),Health,565,2021
+CK720,Mental Health Nursing,CK,University College Cork (NUI),Health,455,2021
+CK730,Intellectual Disability Nursing,CK,University College Cork (NUI),Health,431,2021
+CK740,Midwifery,CK,University College Cork (NUI),Health,509,2021
+CK791,Medicine  - Graduate Entry (GAMSAT required),CK,University College Cork (NUI),Health,60,2021
+AC120,International Business,AC,American College,Business and administration,294,2021
+AC137,Liberal Arts,AC,American College,Humanities (except languages),271,2021
+CT125,Computing and IT,CT,CCT College Dublin,Information and Communication Technologies (ICTs),242,2021
+CT325,Business,CT,CCT College Dublin,Business and administration,253,2021
+CM001,Education - Primary Teaching,CM,Marino Institute of Education,Education,508,2021
+CM002,Education - Primary Teaching - Gaeltacht Applicants,CM,Marino Institute of Education,Education,462,2021
+CM003,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge,CM,Marino Institute of Education,Education,513,2021
+CM004,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge (daltaí Gaeltachta),CM,Marino Institute of Education,Education,480,2021
+CM010,Education Studies,CM,Marino Institute of Education,Education,382,2021
+CM020,Early Childhood Education,CM,Marino Institute of Education,Education,317,2021
+DB500,Computing,DB,Dublin Business School,Information and Communication Technologies (ICTs),234,2021
+DB502,Computing (Data Analytics and Big Data),DB,Dublin Business School,Information and Communication Technologies (ICTs),267,2021
+DB510,Audio Production and Music Project Management,DB,Dublin Business School,Arts,217,2021
+DB512,Business Studies,DB,Dublin Business School,Business and administration,243,2021
+DB514,Business Studies (Law),DB,Dublin Business School,Business and administration,239,2021
+DB515,Business Studies (Human Resource Management),DB,Dublin Business School,Business and administration,242,2021
+DB517,Marketing (Event Management),DB,Dublin Business School,Business and administration,233,2021
+DB518,Marketing (Digital Media),DB,Dublin Business School,Business and administration,307,2021
+DB521,Accounting and Finance,DB,Dublin Business School,Business and administration,243,2021
+DB524,Business (Information Systems),DB,Dublin Business School,Information and Communication Technologies (ICTs),247,2021
+DB525,Marketing (Digital Media and Cloud Computing),DB,Dublin Business School,Business and administration,288,2021
+DB526,Business (Cloud Computing),DB,Dublin Business School,Information and Communication Technologies (ICTs),244,2021
+DB527,Applied Social Care,DB,Dublin Business School,Social and behavioural sciences,254,2021
+DB531,Marketing,DB,Dublin Business School,Business and administration,288,2021
+DB562,Psychology,DB,Dublin Business School,Social and behavioural sciences,244,2021
+DB566,Social Science,DB,Dublin Business School,Social and behavioural sciences,262,2021
+DB567,Film and Creative Media,DB,Dublin Business School,Arts,245,2021
+DB568,Law,DB,Dublin Business School,Law,254,2021
+DB569,Business (Psychology),DB,Dublin Business School,Business and administration,240,2021
+DC001,Education - Early Childhood Education,DC,Dublin City University,Education,445,2021
+DC002,Education - Primary Teaching,DC,Dublin City University,Education,518,2021
+DC003,Education - Primary Teaching - Gaeltacht Applicants,DC,Dublin City University,Education,489,2021
+DC004,Education - Primary Teaching (Church of Ireland Centre formerly CICE),DC,Dublin City University,Education,451,2021
+DC009,Arts (Joint Honours) - Humanities,DC,Dublin City University,Arts,356,2021
+DC010,Post Primary Teacher Education - Religious Education and English,DC,Dublin City University,Education,384,2021
+DC011,Post Primary Teacher Education - Religious Education and History,DC,Dublin City University,Education,409,2021
+DC012,Post Primary Teacher Education - Religious Education and Music,DC,Dublin City University,Education,409,2021
+DC013,Post Primary Teacher Ed - Gaeilge with French/German/Spanish,DC,Dublin City University,Education,413,2021
+DC014,BA in Jazz and Contemporary Music Performance (audition),DC,Dublin City University,Arts,311,2021
+DC110,Business Studies International,DC,Dublin City University,Business and administration,498,2021
+DC111,Business Studies,DC,Dublin City University,Business and administration,511,2021
+DC112,Global Business (France),DC,Dublin City University,Business and administration,542,2021
+DC113,Global Business (Germany),DC,Dublin City University,Business and administration,484,2021
+DC114,Global Business (Spain),DC,Dublin City University,Business and administration,544,2021
+DC115,Accounting and Finance,DC,Dublin City University,Business and administration,544,2021
+DC116,Global Business (USA),DC,Dublin City University,Business and administration,613,2021
+DC117,Aviation Management / Aviation Management with Pilot Studies,DC,Dublin City University,Business and administration,484,2021
+DC118,Gnó agus Gaeilge / Business and Irish,DC,Dublin City University,Business and administration,368,2021
+DC119,Global Business (Canada),DC,Dublin City University,Business and administration,601,2021
+DC120,Computing for Business,DC,Dublin City University,Information and Communication Technologies (ICTs),403,2021
+DC121,Computer Science,DC,Dublin City University,Information and Communication Technologies (ICTs),475,2021
+DC123,Data Science,DC,Dublin City University,Information and Communication Technologies (ICTs),501,2021
+DC126,Actuarial Mathematics,DC,Dublin City University,Mathematics and statistics,577,2021
+DC127,Common Entry into Actuarial and Financial Mathematics,DC,Dublin City University,Mathematics and statistics,541,2021
+DC131,Communication Studies,DC,Dublin City University,Journalism and information,421,2021
+DC132,Journalism,DC,Dublin City University,Journalism and information,452,2021
+DC133,Multimedia,DC,Dublin City University,Arts,435,2021
+DC155,Applied Language and Translation Studies,DC,Dublin City University,Languages,427,2021
+DC161,Analytical Science,DC,Dublin City University,Physical sciences,498,2021
+DC162,Chemical and Pharmaceutical Sciences,DC,Dublin City University,Physical sciences,531,2021
+DC163,Chemical Sciences General Entry (Undenominated Entry),DC,Dublin City University,Physical sciences,466,2021
+DC166,Environmental Science and Technology,DC,Dublin City University,Environment,423,2021
+DC168,Genetics and Cell Biology,DC,Dublin City University,Biological and related sciences,543,2021
+DC175,Physics General Entry (options),DC,Dublin City University,Physical sciences,400,2021
+DC180,Biological Sciences General Entry (Undenominated Entry),DC,Dublin City University,Biological and related sciences,530,2021
+DC181,Biotechnology,DC,Dublin City University,Biological and related sciences,530,2021
+DC190,Electronic and Computer Engineering (with choice of four majors),DC,Dublin City University,Engineering and engineering trades,488,2021
+DC193,Mechatronic Engineering,DC,Dublin City University,Engineering and engineering trades,490,2021
+DC194,Sustainable Systems and Energy,DC,Dublin City University,Environment,476,2021
+DC195,Mechanical and Manufacturing Engineering,DC,Dublin City University,Engineering and engineering trades,500,2021
+DC197,Biomedical Engineering,DC,Dublin City University,Health,510,2021
+DC200,Common Entry into Engineering (Undenominated Entry),DC,Dublin City University,Engineering and engineering trades,511,2021
+DC202,Sport Science and Health,DC,Dublin City University,Health,511,2021
+DC203,Science Education,DC,Dublin City University,Education,462,2021
+DC204,Athletic Therapy and Training,DC,Dublin City University,Health,558,2021
+DC205,Physical Education with Biology,DC,Dublin City University,Education,565,2021
+DC206,Physical Education with Mathematics,DC,Dublin City University,Education,521,2021
+DC207,Psychology and Mathematics,DC,Dublin City University,Social and behavioural sciences,521,2021
+DC208,Psychology,DC,Dublin City University,Social and behavioural sciences,565,2021
+DC209,Health and Society,DC,Dublin City University,Health,477,2021
+DC210,Psychology and Disruptive Technologies,DC,Dublin City University,Social and behavioural sciences,506,2021
+DC215,General Nursing,DC,Dublin City University,Health,456,2021
+DC216,Mental Health Nursing,DC,Dublin City University,Health,420,2021
+DC217,Intellectual Disability Nursing,DC,Dublin City University,Health,382,2021
+DC218,Children`s and General Nursing (Integrated),DC,Dublin City University,Health,521,2021
+DC230,"Economics, Politics and Law",DC,Dublin City University,Social and behavioural sciences,431,2021
+DC231,International Relations,DC,Dublin City University,Social and behavioural sciences,398,2021
+DC232,Law and Society (BCL),DC,Dublin City University,Law,469,2021
+DC235,Education and Training - Daytime and Flexible Delivery Mode (full-time),DC,Dublin City University,Education,302,2021
+DC238,Social Sciences and Cultural Innovation,DC,Dublin City University,Humanities (except languages),387,2021
+DC240,"Marketing, Innovation and Technology",DC,Dublin City University,Business and administration,499,2021
+DC241,Digital Business and Innovation,DC,Dublin City University,Business and administration,509,2021
+DC291,Arts (Joint Honours) - Media Studies,DC,Dublin City University,Arts,350,2021
+DC292,Arts (Joint Honours) - Law,DC,Dublin City University,Arts,400,2021
+DC293,Arts (Joint Honours) - International Languages,DC,Dublin City University,Arts,379,2021
+DC294,Climate and Environmental Sustainability,DC,Dublin City University,Environment,475,2021
+DC295,Arts (Joint Honours) - Politics,DC,Dublin City University,Arts,349,2021
+DL822,Arts Management,DL,"Dun Laoghaire Institute of Art, Design and Technology",Business and administration,254,2021
+DL823,Business Management,DL,"Dun Laoghaire Institute of Art, Design and Technology",Business and administration,220,2021
+DL825,Applied Psychology,DL,"Dun Laoghaire Institute of Art, Design and Technology",Social and behavioural sciences,418,2021
+DL826,Graphic Design,DL,"Dun Laoghaire Institute of Art, Design and Technology",Arts,591,2021
+DL827,Art,DL,"Dun Laoghaire Institute of Art, Design and Technology",Arts,574,2021
+DL832,Animation,DL,"Dun Laoghaire Institute of Art, Design and Technology",Arts,989,2021
+DL833,Photography and Visual Media,DL,"Dun Laoghaire Institute of Art, Design and Technology",Arts,671,2021
+DL836,Creative Computing,DL,"Dun Laoghaire Institute of Art, Design and Technology",Information and Communication Technologies (ICTs),235,2021
+DL837,New Media Studies,DL,"Dun Laoghaire Institute of Art, Design and Technology",Humanities (except languages),298,2021
+DL838,Creative Music Production,DL,"Dun Laoghaire Institute of Art, Design and Technology",Arts,713,2021
+DL839,Interaction and User Experience Design,DL,"Dun Laoghaire Institute of Art, Design and Technology",Information and Communication Technologies (ICTs),757,2021
+DL840,Digital Marketing,DL,"Dun Laoghaire Institute of Art, Design and Technology",Business and administration,210,2021
+DL841,English and Equality Studies,DL,"Dun Laoghaire Institute of Art, Design and Technology",Arts,277,2021
+DL843,Film,DL,"Dun Laoghaire Institute of Art, Design and Technology",Arts,987,2021
+DL844,Television,DL,"Dun Laoghaire Institute of Art, Design and Technology",Arts,566,2021
+DL845,Design for Film (degree options),DL,"Dun Laoghaire Institute of Art, Design and Technology",Arts,628,2021
+GC200,Business,GC,Griffith College,Business and administration,269,2021
+GC201,Accounting and Finance,GC,Griffith College,Business and administration,260,2021
+GC230,Computing Science,GC,Griffith College,Information and Communication Technologies (ICTs),300,2021
+GC300,Business,GC,Griffith College,Business and administration,264,2021
+GC302,Business - HRM,GC,Griffith College,Business and administration,377,2021
+GC307,Business (Marketing),GC,Griffith College,Business and administration,289,2021
+GC400,Business,GC,Griffith College,Business and administration,250,2021
+GC401,Accounting and Finance,GC,Griffith College,Business and administration,242,2021
+GC403,Law,GC,Griffith College,Law,245,2021
+GC407,Business (Marketing),GC,Griffith College,Business and administration,264,2021
+GC430,Computing Science,GC,Griffith College,Information and Communication Technologies (ICTs),251,2021
+GC450,Communications and Media Production,GC,Griffith College,Journalism and information,225,2021
+GC462,Design Communication (portfolio),GC,Griffith College,Arts,300,2021
+GC489,Interior Architecture (portfolio),GC,Griffith College,Arts,288,2021
+GC494,Fashion Design (portfolio),GC,Griffith College,Arts,351,2021
+BY001,Business,BY,IBAT College Dublin,Business and administration,210,2021
+AD101,"First Year Art and Design (Common Entry,portfolio)",AD,National College of Art and Design,Arts,554,2021
+AD102,Graphic Design and Moving Image Design (portfolio),AD,National College of Art and Design,Arts,538,2021
+AD103,Textile and Surface Design and Jewellery and Objects (portfolio),AD,National College of Art and Design,Arts,505,2021
+AD202,"Education and Design or Fine Art (Second Level Teaching,portfolio))",AD,National College of Art and Design,Education,591,2021
+AD204,Fine Art (portfolio),AD,National College of Art and Design,Arts,514,2021
+AD211,Fashion Design (portfolio),AD,National College of Art and Design,Arts,760,2021
+AD212,Product Design (portfolio),AD,National College of Art and Design,Arts,413,2021
+AD215,Visual Culture,AD,National College of Art and Design,Arts,337,2021
+AD217,Illustration (portfolio),AD,National College of Art and Design,Arts,738,2021
+AD222,Interaction Design (portfolio),AD,National College of Art and Design,Information and Communication Technologies (ICTs),444,2021
+NC003,Computing (Degree Award options),NC,National College of Ireland (NCI),Information and Communication Technologies (ICTs),271,2021
+NC005,Human Resource Management,NC,National College of Ireland (NCI),Business and administration,301,2021
+NC009,Business,NC,National College of Ireland (NCI),Business and administration,300,2021
+NC010,Psychology,NC,National College of Ireland (NCI),Social and behavioural sciences,420,2021
+NC020,Marketing Practice,NC,National College of Ireland (NCI),Business and administration,270,2021
+NC022,Accounting and Finance,NC,National College of Ireland (NCI),Business and administration,330,2021
+NC023,Technology Management (with specialisations),NC,National College of Ireland (NCI),Information and Communication Technologies (ICTs),266,2021
+NC030,Early Childhood Education and Care,NC,National College of Ireland (NCI),Education,251,2021
+RC001,Medicine - Undergraduate Entry (HPAT required),RC,RCSI University of Medicine & Health Sciences,Health,741,2021
+RC004,Physiotherapy,RC,RCSI University of Medicine & Health Sciences,Health,589,2021
+RC005,Pharmacy,RC,RCSI University of Medicine & Health Sciences,Health,613,2021
+NM801,Montessori Education,NM,St Nicholas Montessori College Ireland,Education,262,2021
+NM802,Psychology,NM,St Nicholas Montessori College Ireland,Social and behavioural sciences,228,2021
+TU801,Sustainable Energy Engineering,TU,Technological University Dublin,Environment,235,2021
+TU802,Electrical Services and Energy Management,TU,Technological University Dublin,Engineering and engineering trades,309,2021
+TU804,Engineering (Common Entry with Award options),TU,Technological University Dublin,Engineering and engineering trades,270,2021
+TU805,Engineering (General Entry),TU,Technological University Dublin,Engineering and engineering trades,466,2021
+TU807,Computer Engineering in Mobile Systems,TU,Technological University Dublin,Engineering and engineering trades,274,2021
+TU810,Mechatronic Engineering,TU,Technological University Dublin,Engineering and engineering trades,271,2021
+TU811,Product Design,TU,Technological University Dublin,Arts,440,2021
+TU812,"Design,Technology and Innovation",TU,Technological University Dublin,Manufacturing and processing,278,2021
+TU814,Sustainable Transport Management,TU,Technological University Dublin,Transport services,253,2021
+TU828,Mechanical Engineering (General Entry),TU,Technological University Dublin,Engineering and engineering trades,300,2021
+TU829,Electronic Engineering (General Entry),TU,Technological University Dublin,Engineering and engineering trades,248,2021
+TU831,Architectural Technology,TU,Technological University Dublin,Architecture and construction,423,2021
+TU832,Architecture (Suitability Test and Interview),TU,Technological University Dublin,Architecture and construction,644,2021
+TU833,Construction Management,TU,Technological University Dublin,Architecture and construction,396,2021
+TU834,Geographic Science,TU,Technological University Dublin,Architecture and construction,315,2021
+TU835,Planning and Environmental Management,TU,Technological University Dublin,Architecture and construction,330,2021
+TU836,Property Economics (Valuation Surveying),TU,Technological University Dublin,Architecture and construction,411,2021
+TU837,Quantity Surveying and Construction Economics,TU,Technological University Dublin,Architecture and construction,413,2021
+TU838,Sustainable Timber Technology,TU,Technological University Dublin,Environment,307,2021
+TU851,"Analytical Chemistry (Environmental, Forensic and Pharmaceutical)",TU,Technological University Dublin,Environment,400,2021
+TU852,Chemical Sciences with Medicinal Chemistry,TU,Technological University Dublin,Physical sciences,477,2021
+TU854,Science (General Entry),TU,Technological University Dublin,Biological and related sciences,510,2021
+TU855,Science with Nanotechnology,TU,Technological University Dublin,Physical sciences,322,2021
+TU856,Computer Science,TU,Technological University Dublin,Information and Communication Technologies (ICTs),499,2021
+TU857,Computer Science (Infrastructure),TU,Technological University Dublin,Information and Communication Technologies (ICTs),403,2021
+TU858,Computer Science (International),TU,Technological University Dublin,Information and Communication Technologies (ICTs),395,2021
+TU859,Computing,TU,Technological University Dublin,Information and Communication Technologies (ICTs),251,2021
+TU860,Computing (Information Technology),TU,Technological University Dublin,Information and Communication Technologies (ICTs),270,2021
+TU861,Computing with Language (French/German/Spanish),TU,Technological University Dublin,Information and Communication Technologies (ICTs),235,2021
+TU862,Computing with Artificial Intelligence Machine Learning,TU,Technological University Dublin,Information and Communication Technologies (ICTs),262,2021
+TU863,Digital Forensics and Cyber Security,TU,Technological University Dublin,Information and Communication Technologies (ICTs),282,2021
+TU864,DNA and Forensic Analysis,TU,Technological University Dublin,Biological and related sciences,500,2021
+TU865,Cloud Computing,TU,Technological University Dublin,Information and Communication Technologies (ICTs),235,2021
+TU866,Biomedical and Molecular Diagnostics,TU,Technological University Dublin,Health,522,2021
+TU867,Biomedical Science,TU,Technological University Dublin,Health,576,2021
+TU868,Clinical Measurement Science,TU,Technological University Dublin,Health,542,2021
+TU869,Environmental Health,TU,Technological University Dublin,Hygiene and occupational health services,387,2021
+TU870,Human Nutrition and Dietetics,TU,Technological University Dublin,Health,601,2021
+TU871,Optometry,TU,Technological University Dublin,Health,532,2021
+TU872,Public Health Nutrition,TU,Technological University Dublin,Biological and related sciences,487,2021
+TU874,Mathematical Sciences,TU,Technological University Dublin,Mathematics and statistics,294,2021
+TU875,Pharmaceutical Healthcare,TU,Technological University Dublin,Biological and related sciences,451,2021
+TU876,Pharmaceutical Science,TU,Technological University Dublin,Biological and related sciences,445,2021
+TU877,Physics Technology,TU,Technological University Dublin,Physical sciences,314,2021
+TU878,Physics with Energy and Environment,TU,Technological University Dublin,Physical sciences,339,2021
+TU879,Physics with Medical Physics and Bioengineering,TU,Technological University Dublin,Health,346,2021
+TU880,Physics with Data Science,TU,Technological University Dublin,Physical sciences,412,2021
+TU881,Food Innovation,TU,Technological University Dublin,Manufacturing and processing,309,2021
+TU882,Nutraceuticals in Health and Nutrition,TU,Technological University Dublin,Biological and related sciences,380,2021
+TU902,Business (options),TU,Technological University Dublin,Business and administration,270,2021
+TU903,Business and Management,TU,Technological University Dublin,Business and administration,477,2021
+TU904,Business and Law,TU,Technological University Dublin,Business and administration,462,2021
+TU905,Economics and Finance,TU,Technological University Dublin,Social and behavioural sciences,460,2021
+TU906,Human Resource Management,TU,Technological University Dublin,Business and administration,386,2021
+TU907,Logistics and Supply Chain Management,TU,Technological University Dublin,Business and administration,300,2021
+TU910,Accounting,TU,Technological University Dublin,Business and administration,420,2021
+TU912,Business Analytics,TU,Technological University Dublin,Information and Communication Technologies (ICTs),331,2021
+TU914,Business Computing,TU,Technological University Dublin,Information and Communication Technologies (ICTs),322,2021
+TU917,Law (LLB ) with a Language,TU,Technological University Dublin,Law,356,2021
+TU918,Law (LLB),TU,Technological University Dublin,Law,463,2021
+TU919,Advertising and Marketing Communications,TU,Technological University Dublin,Business and administration,219,2021
+TU920,Digital Marketing,TU,Technological University Dublin,Business and administration,270,2021
+TU921,Digital Marketing Technologies,TU,Technological University Dublin,Business and administration,230,2021
+TU922,Marketing,TU,Technological University Dublin,Business and administration,412,2021
+TU924,E-Commerce in Retailing,TU,Technological University Dublin,Business and administration,307,2021
+TU925,Retail and Services Management,TU,Technological University Dublin,Business and administration,307,2021
+TU932,Business (options),TU,Technological University Dublin,Business and administration,211,2021
+TU933,Accounting and Finance (campus options),TU,Technological University Dublin,Business and administration,251,2021
+TU935,Sports Management and Coaching,TU,Technological University Dublin,Personal services,300,2021
+TU936,Sports Science and Health,TU,Technological University Dublin,Biological and related sciences,484,2021
+TU941,Botanical Cuisine,TU,Technological University Dublin,Personal services,311,2021
+TU942,Culinary Arts,TU,Technological University Dublin,Personal services,252,2021
+TU943,Culinary Entrepreneurship,TU,Technological University Dublin,Personal services,261,2021
+TU944,Culinary Science,TU,Technological University Dublin,Personal services,336,2021
+TU951,International Hospitality and Tourism Management,TU,Technological University Dublin,Personal services,244,2021
+TU952,International Hospitality Management,TU,Technological University Dublin,Personal services,309,2021
+TU953,Tourism and Digital Marketing,TU,Technological University Dublin,Personal services,308,2021
+TU954,Event Management,TU,Technological University Dublin,Personal services,326,2021
+TU955,Sports and Leisure Management,TU,Technological University Dublin,Personal services,275,2021
+TU961,Commercial Modern Music (BIMM - assessment/audition),TU,Technological University Dublin,Arts,536,2021
+TU962,"Drama (Performance, audition)",TU,Technological University Dublin,Arts,448,2021
+TU963,Music (audition),TU,Technological University Dublin,Arts,364,2021
+TU965,International Business and Languages,TU,Technological University Dublin,Business and administration,357,2021
+TU967,Languages and International Tourism,TU,Technological University Dublin,Arts,298,2021
+TU973,Design - Visual Communication (portfolio),TU,Technological University Dublin,Arts,700,2021
+TU974,Fine Art (portfolio),TU,Technological University Dublin,Arts,549,2021
+TU975,Interior Design (portfolio),TU,Technological University Dublin,Arts,544,2021
+TU976,Photography (portfolio),TU,Technological University Dublin,Arts,700,2021
+TU978,Creative Industries and Visual Culture,TU,Technological University Dublin,Arts,299,2021
+TU981,Creative Digital Media,TU,Technological University Dublin,Arts,280,2021
+TU982,Media Production and Digital Arts,TU,Technological University Dublin,Arts,369,2021
+TU983,Film and Broadcasting,TU,Technological University Dublin,Arts,462,2021
+TU984,Game Design,TU,Technological University Dublin,Information and Communication Technologies (ICTs),414,2021
+TU985,Journalism,TU,Technological University Dublin,Journalism and information,367,2021
+TU989,Early Childhood Care and Education (campus options),TU,Technological University Dublin,Education,270,2021
+TU991,Applied Social Studies in Social Care,TU,Technological University Dublin,Welfare,326,2021
+TU992,Community Development and Youth Work,TU,Technological University Dublin,Social and behavioural sciences,251,2021
+TU995,Early Childhood Education,TU,Technological University Dublin,Education,378,2021
+TU996,Social Care,TU,Technological University Dublin,Social and behavioural sciences,407,2021
+TU997,Applied Social Care,TU,Technological University Dublin,Welfare,320,2021
+TR002,Music,TR,Trinity College Dublin,Arts,508,2021
+TR003,History,TR,Trinity College Dublin,Humanities (except languages),552,2021
+TR004,Law,TR,Trinity College Dublin,Law,590,2021
+TR005,Philosophy,TR,Trinity College Dublin,Humanities (except languages),510,2021
+TR006,Psychology,TR,Trinity College Dublin,Social and behavioural sciences,601,2021
+TR007,Clinical Speech and Language Studies,TR,Trinity College Dublin,Health,564,2021
+TR009,Music Education,TR,Trinity College Dublin,Education,496,2021
+TR015,"Philosophy, Political Science, Economics and Sociology",TR,Trinity College Dublin,Social and behavioural sciences,613,2021
+TR016,Deaf Studies,TR,Trinity College Dublin,Languages,389,2021
+TR018,Law and French,TR,Trinity College Dublin,Law,602,2021
+TR019,Law and German,TR,Trinity College Dublin,Law,577,2021
+TR021,"Classics, Ancient History and Archaeology",TR,Trinity College Dublin,Humanities (except languages),467,2021
+TR022,Early and Modern Irish,TR,Trinity College Dublin,Languages,377,2021
+TR023,English Studies,TR,Trinity College Dublin,Languages,546,2021
+TR024,European Studies,TR,Trinity College Dublin,Humanities (except languages),566,2021
+TR025,Drama and Theatre Studies,TR,Trinity College Dublin,Arts,543,2021
+TR028,Ancient and Medieval History and Culture,TR,Trinity College Dublin,Humanities (except languages),498,2021
+TR031,Mathematics,TR,Trinity College Dublin,Mathematics and statistics,579,2021
+TR032,Engineering,TR,Trinity College Dublin,Engineering and engineering trades,556,2021
+TR033,Computer Science,TR,Trinity College Dublin,Information and Communication Technologies (ICTs),566,2021
+TR034,Management Science and Information Systems Studies,TR,Trinity College Dublin,Business and administration,625,2021
+TR035,Theoretical Physics,TR,Trinity College Dublin,Physical sciences,590,2021
+TR038,Engineering with Management,TR,Trinity College Dublin,Engineering and engineering trades,589,2021
+TR039,"Computer Science, Linguistics and a Language",TR,Trinity College Dublin,Information and Communication Technologies (ICTs),443,2021
+TR040,Middle Eastern and European Languages and Cultures,TR,Trinity College Dublin,Languages,520,2021
+TR041,Religion,TR,Trinity College Dublin,Humanities (except languages),417,2021
+TR042,Film,TR,Trinity College Dublin,Arts,531,2021
+TR043,History of Art and Architecture,TR,Trinity College Dublin,Humanities (except languages),498,2021
+TR051,Medicine (HPAT required),TR,Trinity College Dublin,Health,743,2021
+TR052,Dental Science,TR,Trinity College Dublin,Health,625,2021
+TR053,Physiotherapy,TR,Trinity College Dublin,Health,590,2021
+TR054,Occupational Therapy,TR,Trinity College Dublin,Health,578,2021
+TR055,Radiation Therapy,TR,Trinity College Dublin,Health,577,2021
+TR056,Human Health and Disease,TR,Trinity College Dublin,Health,601,2021
+TR060,Biological and Biomedical Sciences,TR,Trinity College Dublin,Biological and related sciences,578,2021
+TR061,Chemical Sciences,TR,Trinity College Dublin,Physical sciences,558,2021
+TR062,Geography and Geoscience,TR,Trinity College Dublin,Physical sciences,495,2021
+TR063,Physical Sciences,TR,Trinity College Dublin,Physical sciences,554,2021
+TR064,Environmental Science and Engineering,TR,Trinity College Dublin,Environment,555,2021
+TR072,Pharmacy,TR,Trinity College Dublin,Health,613,2021
+TR080,Global Business,TR,Trinity College Dublin,Business and administration,613,2021
+TR081,"Business, Economic and Social Studies (BESS)",TR,Trinity College Dublin,Social and behavioural sciences,577,2021
+TR084,Social Studies (Social Work),TR,Trinity College Dublin,Welfare,497,2021
+TR085,Business Studies and French,TR,Trinity College Dublin,Business and administration,564,2021
+TR086,Business Studies and German,TR,Trinity College Dublin,Business and administration,530,2021
+TR087,Business Studies and Russian,TR,Trinity College Dublin,Business and administration,487,2021
+TR089,Business Studies and Polish,TR,Trinity College Dublin,Business and administration,391,2021
+TR090,Business Studies and Spanish,TR,Trinity College Dublin,Business and administration,566,2021
+TR091,General Nursing (Meath and St James`s),TR,Trinity College Dublin,Health,462,2021
+TR093,General Nursing (Adelaide School of Nursing),TR,Trinity College Dublin,Health,473,2021
+TR095,Mental Health Nursing,TR,Trinity College Dublin,Health,442,2021
+TR097,Intellectual Disability Nursing,TR,Trinity College Dublin,Health,412,2021
+TR111,Ancient History and Archaeology/Geography,TR,Trinity College Dublin,Arts,496,2021
+TR112,Ancient History and Archaeology/History,TR,Trinity College Dublin,Arts,577,2021
+TR113,Ancient History and Archaeology/History of Art and Architecture,TR,Trinity College Dublin,Arts,528,2021
+TR114,Ancient History and Archaeology/Modern Language,TR,Trinity College Dublin,Arts,507,2021
+TR117,Ancient History and Archaeology/Religion,TR,Trinity College Dublin,Arts,494,2021
+TR166,Classical Civilisation/English Literature,TR,Trinity College Dublin,Arts,552,2021
+TR173,Classical Civilisation/History of Art and Architecture,TR,Trinity College Dublin,Arts,420,2021
+TR177,Classical Civilisation/Modern Language,TR,Trinity College Dublin,Arts,484,2021
+TR179,Classical Civilisation/Philosophy,TR,Trinity College Dublin,Arts,508,2021
+TR188,Computer Science/Business Studies,TR,Trinity College Dublin,Information and Communication Technologies (ICTs),584,2021
+TR198,Economics/Geography,TR,Trinity College Dublin,Arts,968,2021
+TR202,Economics/History,TR,Trinity College Dublin,Arts,601,2021
+TR207,Economics/Mathematics,TR,Trinity College Dublin,Arts,613,2021
+TR208,Economics/Modern Language,TR,Trinity College Dublin,Arts,589,2021
+TR209,Economics/Philosophy,TR,Trinity College Dublin,Arts,588,2021
+TR212,Economics/Sociology,TR,Trinity College Dublin,Arts,589,2021
+TR214,Social Policy/Economics,TR,Trinity College Dublin,Social and behavioural sciences,611,2021
+TR228,Classical Languages/English Literature,TR,Trinity College Dublin,Arts,555,2021
+TR230,Classical Languages/Linguistics,TR,Trinity College Dublin,Interdisciplinary programmes and qualifications involving arts and humanities,501,2021
+TR231,Classical Languages/History of Art and Architecture,TR,Trinity College Dublin,Interdisciplinary programmes and qualifications involving arts and humanities,613,2021
+TR233,"Classical Languages/Middle Eastern,Jewish and Islamic Civilisations",TR,Trinity College Dublin,Interdisciplinary programmes and qualifications involving arts and humanities,583,2021
+TR239,Classical Languages/Modern Language,TR,Trinity College Dublin,Arts,543,2021
+TR240,Computer Science/Geography,TR,Trinity College Dublin,Information and Communication Technologies (ICTs),482,2021
+TR241,Computer Science/Linguistics,TR,Trinity College Dublin,Information and Communication Technologies (ICTs),495,2021
+TR262,English Literature/History,TR,Trinity College Dublin,Arts,576,2021
+TR263,English Literature/History of Art and Architecture,TR,Trinity College Dublin,Arts,571,2021
+TR269,English Literature/Philosophy,TR,Trinity College Dublin,Arts,555,2021
+TR272,English Literature/Sociology,TR,Trinity College Dublin,Arts,553,2021
+TR276,English Literature/Drama Studies,TR,Trinity College Dublin,Arts,555,2021
+TR277,English Literature/Modern Language,TR,Trinity College Dublin,Arts,554,2021
+TR311,Film/Drama Studies,TR,Trinity College Dublin,Arts,578,2021
+TR312,Film/English Literature,TR,Trinity College Dublin,Arts,576,2021
+TR320,Film/Music,TR,Trinity College Dublin,Arts,584,2021
+TR322,Geography/History,TR,Trinity College Dublin,Arts,578,2021
+TR323,Drama Studies/Modern Language,TR,Trinity College Dublin,Arts,495,2021
+TR324,Film/Modern Language,TR,Trinity College Dublin,Arts,577,2021
+TR325,Film/History,TR,Trinity College Dublin,Arts,578,2021
+TR326,Geography/Modern Language,TR,Trinity College Dublin,Arts,451,2021
+TR328,Political Science/Geography,TR,Trinity College Dublin,Social and behavioural sciences,564,2021
+TR332,Geography/Sociology,TR,Trinity College Dublin,Arts,522,2021
+TR443,History/History of Art and Architecture,TR,Trinity College Dublin,Arts,581,2021
+TR447,History/Modern Language,TR,Trinity College Dublin,Arts,576,2021
+TR449,History/Philosophy,TR,Trinity College Dublin,Arts,579,2021
+TR455,History of Art and Architecture/Modern Language,TR,Trinity College Dublin,Arts,451,2021
+TR457,History/Political Science,TR,Trinity College Dublin,Social and behavioural sciences,576,2021
+TR479,History of Art and Architecture/Philosophy,TR,Trinity College Dublin,Arts,509,2021
+TR482,Sociology/History of Art and Architecture,TR,Trinity College Dublin,Social and behavioural sciences,522,2021
+TR547,"Middle Eastern,Jewish and Islamic Civ./Ancient History and Archaeology",TR,Trinity College Dublin,Arts,543,2021
+TR548,"Middle Eastern,Jewish and Islamic Civilisations/Classical Civilisation",TR,Trinity College Dublin,Arts,544,2021
+TR554,"Middle Eastern,Jewish and Islamic Civilisations/History",TR,Trinity College Dublin,Arts,576,2021
+TR563,"Middle Eastern,Jewish and Islamic Civilisations/Modern Language",TR,Trinity College Dublin,Arts,590,2021
+TR565,"Middle Eastern,Jewish and Islamic Civilisations/Religion",TR,Trinity College Dublin,Arts,999,2021
+TR580,Business Studies/Law,TR,Trinity College Dublin,Business and administration,625,2021
+TR581,History/Law,TR,Trinity College Dublin,Arts,625,2021
+TR582,Political Science/Law,TR,Trinity College Dublin,Social and behavioural sciences,625,2021
+TR588,Linguistics/Modern Language,TR,Trinity College Dublin,Arts,456,2021
+TR589,Linguistics/Philosophy,TR,Trinity College Dublin,Arts,520,2021
+TR592,"Sociology/Middle Eastern,Jewish and Islamic Civilisations",TR,Trinity College Dublin,Social and behavioural sciences,531,2021
+TR597,Mathematics/Modern Language,TR,Trinity College Dublin,Arts,613,2021
+TR598,Mathematics/Music,TR,Trinity College Dublin,Arts,625,2021
+TR599,Mathematics/Philosophy,TR,Trinity College Dublin,Arts,625,2021
+TR629,Music/Philosophy,TR,Trinity College Dublin,Arts,533,2021
+TR635,Music/Drama Studies,TR,Trinity College Dublin,Arts,532,2021
+TR636,Music/Modern Language,TR,Trinity College Dublin,Arts,530,2021
+TR639,Philosophy/Modern Language,TR,Trinity College Dublin,Arts,520,2021
+TR662,Philosophy/Sociology,TR,Trinity College Dublin,Arts,531,2021
+TR663,Religion/Classical Civilisation,TR,Trinity College Dublin,Arts,418,2021
+TR664,Religion/English Literature,TR,Trinity College Dublin,Arts,968,2021
+TR665,Religion/History of Art and Architecture,TR,Trinity College Dublin,Arts,369,2021
+TR667,French/Modern Language,TR,Trinity College Dublin,Arts,466,2021
+TR668,German/Modern Language,TR,Trinity College Dublin,Arts,441,2021
+TR669,Irish/Modern Language,TR,Trinity College Dublin,Arts,464,2021
+TR670,Italian/Modern Language,TR,Trinity College Dublin,Arts,462,2021
+TR671,Russian/Modern Language,TR,Trinity College Dublin,Arts,501,2021
+TR672,Spanish/Modern Language,TR,Trinity College Dublin,Arts,486,2021
+TR756,Sociology/Modern Language,TR,Trinity College Dublin,Arts,522,2021
+TR757,Modern Language/Social Policy,TR,Trinity College Dublin,Social and behavioural sciences,555,2021
+TR758,Social Policy/Political Science,TR,Trinity College Dublin,Social and behavioural sciences,566,2021
+TR759,Sociology/Social Policy,TR,Trinity College Dublin,Social and behavioural sciences,554,2021
+TR911,Children`s and General Nursing (Integrated),TR,Trinity College Dublin,Health,531,2021
+TR913,Midwifery,TR,Trinity College Dublin,Health,521,2021
+DN100,Architecture,DN,University College Dublin (NUI),Architecture and construction,555,2021
+DN120,Landscape Architecture,DN,University College Dublin (NUI),Architecture and construction,463,2021
+DN130,City Planning and Environmental Policy,DN,University College Dublin (NUI),Architecture and construction,445,2021
+DN150,Engineering (Common Entry),DN,University College Dublin (NUI),Engineering and engineering trades,565,2021
+DN200,Science (options),DN,University College Dublin (NUI),"Interdisciplinary programmes and qualifications involving natural sciences, Mathematics and statistics",577,2021
+DN201,Computer Science (Common Entry),DN,University College Dublin (NUI),Information and Communication Technologies (ICTs),554,2021
+DN230,Actuarial and Financial Studies,DN,University College Dublin (NUI),Mathematics and statistics,613,2021
+DN240,Sustainability,DN,University College Dublin (NUI),Environment,510,2021
+DN250,Agricultural Science (options),DN,University College Dublin (NUI),"Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",454,2021
+DN261,Food Science,DN,University College Dublin (NUI),Agriculture,531,2021
+DN262,Human Nutrition,DN,University College Dublin (NUI),Health,566,2021
+DN300,Veterinary Medicine - Undergraduate Entry,DN,University College Dublin (NUI),Veterinary,601,2021
+DN301,Veterinary Medicine - Graduate Entry (GAMSAT required),DN,University College Dublin (NUI),Veterinary,#,2021
+DN310,Veterinary Nursing,DN,University College Dublin (NUI),Veterinary,521,2021
+DN400,Medicine - Undergraduate Entry (HPAT required),DN,University College Dublin (NUI),Health,743,2021
+DN401,Medicine - Graduate Entry (GAMSAT required),DN,University College Dublin (NUI),Health,61,2021
+DN410,Radiography,DN,University College Dublin (NUI),Health,566,2021
+DN411,Radiography - Graduate Entry,DN,University College Dublin (NUI),Health,#,2021
+DN420,Physiotherapy,DN,University College Dublin (NUI),Health,601,2021
+DN425,Health and Performance Science,DN,University College Dublin (NUI),Health,544,2021
+DN430,Sport and Exercise Management,DN,University College Dublin (NUI),Business and administration,484,2021
+DN440,"Biomedical, Health and Life Sciences",DN,University College Dublin (NUI),Biological and related sciences,613,2021
+DN450,General Nursing,DN,University College Dublin (NUI),Health,462,2021
+DN451,Children`s and General Nursing (Integrated),DN,University College Dublin (NUI),Health,533,2021
+DN452,Midwifery,DN,University College Dublin (NUI),Health,510,2021
+DN453,Mental Health Nursing,DN,University College Dublin (NUI),Health,442,2021
+DN520,Joint Honours (options),DN,University College Dublin (NUI),Arts,381,2021
+DN530,Humanities (options),DN,University College Dublin (NUI),Humanities (except languages),397,2021
+DN541,Modern Languages (options),DN,University College Dublin (NUI),Languages,320,2021
+DN600,Law (options),DN,University College Dublin (NUI),Law,576,2021
+DN610,Business and Law,DN,University College Dublin (NUI),Business and administration,573,2021
+DN650,Commerce,DN,University College Dublin (NUI),Business and administration,555,2021
+DN660,Commerce International (options),DN,University College Dublin (NUI),Business and administration,555,2021
+DN670,Economics and Finance,DN,University College Dublin (NUI),Business and administration,625,2021
+DN700,Social Sciences (options),DN,University College Dublin (NUI),Social and behavioural sciences,475,2021
+DN710,Economics,DN,University College Dublin (NUI),Social and behavioural sciences,534,2021
+DN720,Psychology,DN,University College Dublin (NUI),Social and behavioural sciences,566,2021
+DN750,Social Policy and Sociology,DN,University College Dublin (NUI),Social and behavioural sciences,421,2021
+DK810,Accounting and Finance,DK,Dundalk Institute of Technology,Business and administration,307,2021
+DK816,Business Studies,DK,Dundalk Institute of Technology,Business and administration,301,2021
+DK820,Computing in Games Development,DK,Dundalk Institute of Technology,Information and Communication Technologies (ICTs),309,2021
+DK821,Computing in Software Development,DK,Dundalk Institute of Technology,Information and Communication Technologies (ICTs),320,2021
+DK822,Augmented and Virtual Reality,DK,Dundalk Institute of Technology,Information and Communication Technologies (ICTs),320,2021
+DK830,Building Surveying,DK,Dundalk Institute of Technology,Architecture and construction,305,2021
+DK831,Architectural Technology,DK,Dundalk Institute of Technology,Architecture and construction,368,2021
+DK832,Construction Management,DK,Dundalk Institute of Technology,Architecture and construction,358,2021
+DK843,Engineering (Common Entry),DK,Dundalk Institute of Technology,Engineering and engineering trades,404,2021
+DK844,Mechanical Engineering,DK,Dundalk Institute of Technology,Engineering and engineering trades,336,2021
+DK845,Electrical and Electronic Engineering,DK,Dundalk Institute of Technology,Engineering and engineering trades,331,2021
+DK846,Civil Engineering,DK,Dundalk Institute of Technology,Architecture and construction,371,2021
+DK850,International Tourism Management,DK,Dundalk Institute of Technology,Personal services,303,2021
+DK861,Arts,DK,Dundalk Institute of Technology,Social and behavioural sciences,302,2021
+DK862,Social Care,DK,Dundalk Institute of Technology,Welfare,322,2021
+DK863,Creative Media,DK,Dundalk Institute of Technology,Arts,336,2021
+DK864,Film and Television Production,DK,Dundalk Institute of Technology,Arts,308,2021
+DK865,Audio and Music Production,DK,Dundalk Institute of Technology,Arts,352,2021
+DK870,General Nursing,DK,Dundalk Institute of Technology,Health,440,2021
+DK872,Intellectual Disability Nursing,DK,Dundalk Institute of Technology,Health,367,2021
+DK874,Mental Health Nursing,DK,Dundalk Institute of Technology,Health,398,2021
+DK876,Early Childhood Studies,DK,Dundalk Institute of Technology,Welfare,300,2021
+DK877,Midwifery,DK,Dundalk Institute of Technology,Health,482,2021
+DK880,Health and Physical Activity,DK,Dundalk Institute of Technology,Health,301,2021
+DK882,Agriculture (Award options),DK,Dundalk Institute of Technology,"Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",342,2021
+DK883,Science (Award options),DK,Dundalk Institute of Technology,"Interdisciplinary programmes and qualifications involving natural sciences, Mathematics and statistics",373,2021
+DK884,Sustainable Agriculture,DK,Dundalk Institute of Technology,Agriculture,348,2021
+DK886,Biopharmaceutical Science,DK,Dundalk Institute of Technology,Manufacturing and processing,379,2021
+DK887,Environmental Science,DK,Dundalk Institute of Technology,Environment,377,2021
+GA181,Accounting,GA,Galway-Mayo Institute of Technology,Business and administration,303,2021
+GA182,Business,GA,Galway-Mayo Institute of Technology,Business and administration,285,2021
+GA183,Business Information Systems,GA,Galway-Mayo Institute of Technology,Information and Communication Technologies (ICTs),298,2021
+GA184,Marketing and Sales,GA,Galway-Mayo Institute of Technology,Business and administration,300,2021
+GA185,Finance and Economics,GA,Galway-Mayo Institute of Technology,Business and administration,318,2021
+GA186,Business with Entrepreneurship,GA,Galway-Mayo Institute of Technology,Business and administration,287,2021
+GA187,Rural Enterprise and Agri-Business,GA,Galway-Mayo Institute of Technology,Agriculture,291,2021
+GA281,Film and Documentary,GA,Galway-Mayo Institute of Technology,Arts,310,2021
+GA282,Heritage Studies,GA,Galway-Mayo Institute of Technology,Social and behavioural sciences,252,2021
+GA283,Contemporary Art (portfolio),GA,Galway-Mayo Institute of Technology,Arts,790,2021
+GA284,Design,GA,Galway-Mayo Institute of Technology,Arts,331,2021
+GA285,"Education (Art, Design and Graphics)",GA,Galway-Mayo Institute of Technology,Education,406,2021
+GA380,International Hotel Management,GA,Galway-Mayo Institute of Technology,Personal services,218,2021
+GA381,International Tourism Management,GA,Galway-Mayo Institute of Technology,Personal services,252,2021
+GA382,Culinary and Gastronomic Science,GA,Galway-Mayo Institute of Technology,Manufacturing and processing,235,2021
+GA384,Event Management with Public Relations,GA,Galway-Mayo Institute of Technology,Personal services,230,2021
+GA480,Construction Management,GA,Galway-Mayo Institute of Technology,Architecture and construction,302,2021
+GA482,Quantity Surveying and Construction Economics,GA,Galway-Mayo Institute of Technology,Architecture and construction,304,2021
+GA483,Architectural Technology,GA,Galway-Mayo Institute of Technology,Architecture and construction,281,2021
+GA484,Civil Engineering,GA,Galway-Mayo Institute of Technology,Architecture and construction,377,2021
+GA580,Software and Electronic Engineering,GA,Galway-Mayo Institute of Technology,Engineering and engineering trades,300,2021
+GA680,Mechanical Engineering,GA,Galway-Mayo Institute of Technology,Engineering and engineering trades,400,2021
+GA681,Energy Engineering,GA,Galway-Mayo Institute of Technology,Engineering and engineering trades,312,2021
+GA682,Biomedical Engineering,GA,Galway-Mayo Institute of Technology,Engineering and engineering trades,331,2021
+GA683,Agricultural Engineering,GA,Galway-Mayo Institute of Technology,Engineering and engineering trades,304,2021
+GA684,Engineering Common Entry to Manu/Agri/Biomed/Energy/Mech Eng,GA,Galway-Mayo Institute of Technology,Engineering and engineering trades,413,2021
+GA685,Manufacturing Engineering Design,GA,Galway-Mayo Institute of Technology,Manufacturing and processing,336,2021
+GA780,Applied Freshwater and Marine Biology,GA,Galway-Mayo Institute of Technology,Biological and related sciences,366,2021
+GA781,Applied Biology and Biopharmaceutical Science,GA,Galway-Mayo Institute of Technology,Biological and related sciences,381,2021
+GA782,Chemical and Pharmaceutical Science,GA,Galway-Mayo Institute of Technology,Environment,356,2021
+GA783,Physics and Instrumentation,GA,Galway-Mayo Institute of Technology,Physical sciences,301,2021
+GA784,Science (Undenominated),GA,Galway-Mayo Institute of Technology,Biological and related sciences,445,2021
+GA785,Medical Science,GA,Galway-Mayo Institute of Technology,Health,517,2021
+GA786,Forensic Science and Analysis,GA,Galway-Mayo Institute of Technology,Physical sciences,408,2021
+GA787,Computing in Software Development,GA,Galway-Mayo Institute of Technology,Information and Communication Technologies (ICTs),310,2021
+GA788,Computing and Digital Media,GA,Galway-Mayo Institute of Technology,Information and Communication Technologies (ICTs),270,2021
+GA789,Agriculture and Environmental Management,GA,Galway-Mayo Institute of Technology,Agriculture,340,2021
+GA790,Sport and Exercise Science,GA,Galway-Mayo Institute of Technology,Personal services,376,2021
+GA791,Public Health Nutrition,GA,Galway-Mayo Institute of Technology,Biological and related sciences,368,2021
+GA880,General Nursing,GA,Galway-Mayo Institute of Technology,Health,440,2021
+GA882,Psychiatric Nursing,GA,Galway-Mayo Institute of Technology,Health,369,2021
+GA885,Outdoor Education,GA,Galway-Mayo Institute of Technology,Personal services,269,2021
+GA887,History and Geography,GA,Galway-Mayo Institute of Technology,Humanities (except languages),201,2021
+GA889,Applied Social Care,GA,Galway-Mayo Institute of Technology,Welfare,265,2021
+GA890,Early Childhood Education and Care,GA,Galway-Mayo Institute of Technology,Education,281,2021
+GA891,Geography and Outdoor Education,GA,Galway-Mayo Institute of Technology,Environment,261,2021
+GA980,Education (Design Graphics and Construction),GA,Galway-Mayo Institute of Technology,Education,410,2021
+GA981,Furniture Design and Manufacture,GA,Galway-Mayo Institute of Technology,Arts,346,2021
+GA982,Furniture Making and Architectural Woodworking,GA,Galway-Mayo Institute of Technology,Arts,360,2021
+GA984,"Furniture Design, Making and Technology - Common Entry",GA,Galway-Mayo Institute of Technology,Arts,486,2021
+GY101,Arts (Joint-Honours),GY,"National University of Ireland, Galway",Arts,327,2021
+GY104,BSc (Psychology),GY,"National University of Ireland, Galway",Social and behavioural sciences,564,2021
+GY105,Arts (History),GY,"National University of Ireland, Galway",Humanities (except languages),357,2021
+GY109,Arts (Mathematics and Education),GY,"National University of Ireland, Galway",Education,413,2021
+GY110,Arts (Children and Youth Studies - options),GY,"National University of Ireland, Galway",Social and behavioural sciences,387,2021
+GY111,Arts (English and Creative Writing),GY,"National University of Ireland, Galway",Arts,421,2021
+GY113,Arts with Human Rights,GY,"National University of Ireland, Galway",Social and behavioural sciences,413,2021
+GY115,Arts with Performing Arts Studies,GY,"National University of Ireland, Galway",Arts,300,2021
+GY118,"Arts (Drama, Theatre and Performance Studies)",GY,"National University of Ireland, Galway",Arts,453,2021
+GY119,Arts (Journalism),GY,"National University of Ireland, Galway",Journalism and information,484,2021
+GY122,Na Dána (Cumarsáid agus Gaeilge),GY,"National University of Ireland, Galway",Arts,410,2021
+GY123,Applied Social Sciences,GY,"National University of Ireland, Galway",Social and behavioural sciences,419,2021
+GY125,Arts (Digital Arts and Technology),GY,"National University of Ireland, Galway",Arts,403,2021
+GY127,Arts (Film and Digital Media),GY,"National University of Ireland, Galway",Arts,430,2021
+GY128,Arts (Global Languages),GY,"National University of Ireland, Galway",Languages,346,2021
+GY129,Arts (Global Experience),GY,"National University of Ireland, Galway",Arts,465,2021
+GY130,Arts (Music),GY,"National University of Ireland, Galway",Arts,462,2021
+GY132,"Government (Politics, Economics and Law)",GY,"National University of Ireland, Galway",Social and behavioural sciences,465,2021
+GY133,Education (Computer Science and Mathematical Studies),GY,"National University of Ireland, Galway",Education,454,2021
+GY134,Geography and Geosystems,GY,"National University of Ireland, Galway",Physical sciences,425,2021
+GY135,Arts (Global Media),GY,"National University of Ireland, Galway",Arts,442,2021
+GY136,Na Dána (Léann Teanga - options),GY,"National University of Ireland, Galway",Languages,526,2021
+GY201,Commerce,GY,"National University of Ireland, Galway",Business and administration,476,2021
+GY202,Commerce (International) with French,GY,"National University of Ireland, Galway",Business and administration,520,2021
+GY203,Commerce (International) with German,GY,"National University of Ireland, Galway",Business and administration,518,2021
+GY204,Commerce (International) with Spanish,GY,"National University of Ireland, Galway",Business and administration,506,2021
+GY206,Business Information Systems (Work Placement and Optional Int`l Study),GY,"National University of Ireland, Galway",Business and administration,509,2021
+GY207,Commerce (Accounting) including optional Global Experience year,GY,"National University of Ireland, Galway",Business and administration,543,2021
+GY208,Commerce (Gaeilge),GY,"National University of Ireland, Galway",Business and administration,508,2021
+GY209,Commerce (Global Experience),GY,"National University of Ireland, Galway",Business and administration,551,2021
+GY250,Law and Business,GY,"National University of Ireland, Galway",Law,510,2021
+GY251,Law (BCL),GY,"National University of Ireland, Galway",Law,542,2021
+GY252,Law (BCL) and Human Rights,GY,"National University of Ireland, Galway",Law,565,2021
+GY253,Law and Taxation,GY,"National University of Ireland, Galway",Law,506,2021
+GY254,"Law (BCL), Criminology and Criminal Justice",GY,"National University of Ireland, Galway",Law,548,2021
+GY261,Business Studies in International Hotel Management (interview),GY,"National University of Ireland, Galway",Business and administration,503,2021
+GY262,Commerce in International Hotel Management (interview),GY,"National University of Ireland, Galway",Business and administration,709,2021
+GY301,Science,GY,"National University of Ireland, Galway",Biological and related sciences,489,2021
+GY303,Biomedical Science,GY,"National University of Ireland, Galway",Biological and related sciences,613,2021
+GY304,Biotechnology,GY,"National University of Ireland, Galway",Engineering and engineering trades,498,2021
+GY308,Environmental Science,GY,"National University of Ireland, Galway",Environment,431,2021
+GY309,Financial Mathematics and Economics,GY,"National University of Ireland, Galway",Mathematics and statistics,509,2021
+GY310,Marine Science,GY,"National University of Ireland, Galway",Physical sciences,467,2021
+GY313,Environmental Health and Safety,GY,"National University of Ireland, Galway",Hygiene and occupational health services,412,2021
+GY314,Earth and Ocean Sciences,GY,"National University of Ireland, Galway",Physical sciences,422,2021
+GY318,Biopharmaceutical Chemistry,GY,"National University of Ireland, Galway",Biological and related sciences,555,2021
+GY319,Mathematical Science,GY,"National University of Ireland, Galway",Mathematics and statistics,543,2021
+GY320,"Physics (Degree options: Applied,Astrophysics,Biomedical,Theoretical)",GY,"National University of Ireland, Galway",Physical sciences,465,2021
+GY321,Genetics and Genomics,GY,"National University of Ireland, Galway",Biological and related sciences,532,2021
+GY322,Agricultural Sciences,GY,"National University of Ireland, Galway",Agriculture,485,2021
+GY350,Computer Science and Information Technology,GY,"National University of Ireland, Galway",Information and Communication Technologies (ICTs),495,2021
+GY401,Engineering (Undenominated),GY,"National University of Ireland, Galway",Engineering and engineering trades,522,2021
+GY402,Civil Engineering,GY,"National University of Ireland, Galway",Architecture and construction,533,2021
+GY405,Mechanical Engineering,GY,"National University of Ireland, Galway",Engineering and engineering trades,541,2021
+GY406,Electronic and Computer Engineering,GY,"National University of Ireland, Galway",Engineering and engineering trades,555,2021
+GY408,Biomedical Engineering,GY,"National University of Ireland, Galway",Engineering and engineering trades,554,2021
+GY410,Project and Construction Management,GY,"National University of Ireland, Galway",Architecture and construction,431,2021
+GY413,Energy Systems Engineering,GY,"National University of Ireland, Galway",Engineering and engineering trades,509,2021
+GY414,Electrical and Electronic Engineering,GY,"National University of Ireland, Galway",Engineering and engineering trades,433,2021
+GY501,"Medicine (five year/six year course, HPAT required)",GY,"National University of Ireland, Galway",Health,737,2021
+GY502,Occupational Therapy,GY,"National University of Ireland, Galway",Health,601,2021
+GY503,Speech and Language Therapy,GY,"National University of Ireland, Galway",Health,578,2021
+GY504,Podiatric Medicine,GY,"National University of Ireland, Galway",Health,531,2021
+GY515,General Nursing (Galway and Portiuncula),GY,"National University of Ireland, Galway",Health,502,2021
+GY516,Mental Health Nursing,GY,"National University of Ireland, Galway",Health,475,2021
+GY517,Midwifery,GY,"National University of Ireland, Galway",Health,520,2021
+LY108,Business - Accounting,LY,Letterkenny Institute of Technology,Business and administration,312,2021
+LY118,Business,LY,Letterkenny Institute of Technology,Business and administration,288,2021
+LY128,Marketing with Online Technologies,LY,Letterkenny Institute of Technology,Business and administration,261,2021
+LY208,Law,LY,Letterkenny Institute of Technology,Law,300,2021
+LY228,Sports and Exercise - Common Entry,LY,Letterkenny Institute of Technology,Personal services,290,2021
+LY408,Design - Common Entry,LY,Letterkenny Institute of Technology,Arts,301,2021
+LY508,Fire Safety Engineering,LY,Letterkenny Institute of Technology,Architecture and construction,283,2021
+LY518,Quantity Surveying,LY,Letterkenny Institute of Technology,Architecture and construction,304,2021
+LY528,Construction Management,LY,Letterkenny Institute of Technology,Architecture and construction,262,2021
+LY538,Architectural Technology,LY,Letterkenny Institute of Technology,Architecture and construction,234,2021
+LY608,Mechanical Engineering,LY,Letterkenny Institute of Technology,Engineering and engineering trades,300,2021
+LY618,Electronic Engineering,LY,Letterkenny Institute of Technology,Engineering and engineering trades,321,2021
+LY708,Applied Computing,LY,Letterkenny Institute of Technology,Information and Communication Technologies (ICTs),320,2021
+LY748,Computer Science,LY,Letterkenny Institute of Technology,Information and Communication Technologies (ICTs),316,2021
+LY818,Science - Common Entry,LY,Letterkenny Institute of Technology,Biological and related sciences,302,2021
+LY828,Agriculture - Common Entry,LY,Letterkenny Institute of Technology,Agriculture,308,2021
+LY908,General Nursing,LY,Letterkenny Institute of Technology,Health,429,2021
+LY918,Psychiatric Nursing,LY,Letterkenny Institute of Technology,Health,367,2021
+LY928,Intellectual Disability Nursing,LY,Letterkenny Institute of Technology,Health,357,2021
+LY968,"Early Childhood Care, Health and Education",LY,Letterkenny Institute of Technology,Welfare,288,2021
+LY978,Health and Social Care - Common Entry,LY,Letterkenny Institute of Technology,Health,279,2021
+MI001,Contemporary and Applied Theatre Studies,MI,Mary Immaculate College,Arts,209,2021
+MI002,Arts,MI,Mary Immaculate College,Arts,280,2021
+MI004,Education - Primary Teaching - International,MI,Mary Immaculate College,Education,589,2021
+MI005,Education - Primary Teaching,MI,Mary Immaculate College,Education,522,2021
+MI006,Education - Primary Teaching - Gaeltacht Applicants,MI,Mary Immaculate College,Education,485,2021
+MI007,Early Childhood Care and Education,MI,Mary Immaculate College,Education,409,2021
+MI008,Education and Psychology - Primary Teaching,MI,Mary Immaculate College,Education,590,2021
+MI009,"Education, Business Studies and Accounting",MI,Mary Immaculate College,Education,434,2021
+MI010,"Education, Business Studies and Religious Studies",MI,Mary Immaculate College,Education,370,2021
+MI011,"Education, Gaeilge and Religious Studies",MI,Mary Immaculate College,Education,407,2021
+MI012,"Education, Gaeilge and Business Studies",MI,Mary Immaculate College,Education,387,2021
+MI013,"Education, Mathematics and Gaeilge",MI,Mary Immaculate College,Education,509,2021
+MI014,"Education, Mathematics and Business Studies",MI,Mary Immaculate College,Education,476,2021
+CI110,Counselling and Psychotherapy,CI,Irish College of Humanities & Applied Sciences,Welfare,292,2021
+CI111,Counselling and Psychotherapy with Addiction Studies,CI,Irish College of Humanities & Applied Sciences,Welfare,290,2021
+CI112,Counselling and Psychotherapy with Youth Studies,CI,Irish College of Humanities & Applied Sciences,Welfare,325,2021
+LC110,"Art and Design (Common Entry, portfolio)",LC,Limerick Institute of Technology,Arts,794,2021
+LC114,Fashion and Textiles for Product and Costume (portfolio),LC,Limerick Institute of Technology,Arts,914,2021
+LC115,"Art and Design Teacher Education (LIT and UL, portfolio)",LC,Limerick Institute of Technology,Education,993,2021
+LC220,Digital Marketing,LC,Limerick Institute of Technology,Business and administration,263,2021
+LC223,Law and Taxation,LC,Limerick Institute of Technology,Law,331,2021
+LC224,Accounting and Finance,LC,Limerick Institute of Technology,Business and administration,300,2021
+LC225,Marketing and Management,LC,Limerick Institute of Technology,Business and administration,298,2021
+LC226,Enterprise and Innovation,LC,Limerick Institute of Technology,Business and administration,255,2021
+LC233,Software Development,LC,Limerick Institute of Technology,Information and Communication Technologies (ICTs),280,2021
+LC234,Immersive Digital Media and Spatial Computing,LC,Limerick Institute of Technology,Information and Communication Technologies (ICTs),226,2021
+LC236,Internet Systems Development,LC,Limerick Institute of Technology,Information and Communication Technologies (ICTs),260,2021
+LC239,Computer Networks and Systems Management,LC,Limerick Institute of Technology,Information and Communication Technologies (ICTs),317,2021
+LC241,Construction Management,LC,Limerick Institute of Technology,Architecture and construction,326,2021
+LC242,Property Valuation and Management,LC,Limerick Institute of Technology,Architecture and construction,308,2021
+LC243,Quantity Surveying,LC,Limerick Institute of Technology,Architecture and construction,278,2021
+LC248,Built Environment (Common Entry),LC,Limerick Institute of Technology,Architecture and construction,300,2021
+LC252,Civil Engineering Management,LC,Limerick Institute of Technology,Architecture and construction,264,2021
+LC263,Medical Technology,LC,Limerick Institute of Technology,Health,391,2021
+LC265,Forensic and Pharmaceutical Sciences,LC,Limerick Institute of Technology,Physical sciences,498,2021
+LC266,Drug and Medicinal Product Analysis,LC,Limerick Institute of Technology,Physical sciences,252,2021
+LC275,Electrical Engineering,LC,Limerick Institute of Technology,Engineering and engineering trades,361,2021
+LC288,Mechanical Engineering,LC,Limerick Institute of Technology,Engineering and engineering trades,378,2021
+LC289,Precision Engineering,LC,Limerick Institute of Technology,Engineering and engineering trades,261,2021
+LC292,Social Care Work,LC,Limerick Institute of Technology,Welfare,374,2021
+LC293,Business Studies with Travel and Tourism Management,LC,Limerick Institute of Technology,Personal services,271,2021
+LC294,Business Studies with Event Management,LC,Limerick Institute of Technology,Personal services,279,2021
+LC295,Business Studies with Sports Management,LC,Limerick Institute of Technology,Business and administration,262,2021
+LC297,Community and Addiction Studies,LC,Limerick Institute of Technology,Social and behavioural sciences,272,2021
+LC320,Business,LC,Limerick Institute of Technology,Business and administration,381,2021
+LC330,Business with Computing,LC,Limerick Institute of Technology,Information and Communication Technologies (ICTs),328,2021
+LC340,Interior Design,LC,Limerick Institute of Technology,Arts,391,2021
+LC362,Biotechnology and Biopharmaceutical Sciences,LC,Limerick Institute of Technology,Biological and related sciences,429,2021
+LC371,Creative Broadcast and Film Production,LC,Limerick Institute of Technology,Arts,325,2021
+LC372,Music Technology and Production,LC,Limerick Institute of Technology,Arts,377,2021
+LC374,Renewable and Electrical Energy Engineering,LC,Limerick Institute of Technology,Engineering and engineering trades,337,2021
+LC375,Industrial Automation and Robotic Systems,LC,Limerick Institute of Technology,Engineering and engineering trades,309,2021
+LC376,Electronic Engineering with Computer Systems,LC,Limerick Institute of Technology,Engineering and engineering trades,357,2021
+LC380,Automotive Engineering and Transport Management,LC,Limerick Institute of Technology,Engineering and engineering trades,298,2021
+LC392,Business Studies in Beauty and Spa Management,LC,Limerick Institute of Technology,Personal services,328,2021
+LC393,Early Childhood Education and Care,LC,Limerick Institute of Technology,Welfare,309,2021
+LC402,Social Care Work,LC,Limerick Institute of Technology,Welfare,228,2021
+LC408,Environmental Science and Climate,LC,Limerick Institute of Technology,Environment,279,2021
+LC416,Business,LC,Limerick Institute of Technology,Business and administration,260,2021
+LC418,Computing - Games Design and Development,LC,Limerick Institute of Technology,Information and Communication Technologies (ICTs),260,2021
+LC422,Applied Strength and Conditioning,LC,Limerick Institute of Technology,Personal services,289,2021
+LC502,Game Art and Design (portfolio),LC,Limerick Institute of Technology,Information and Communication Technologies (ICTs),841,2021
+LC517,Creative Media and Design,LC,Limerick Institute of Technology,Information and Communication Technologies (ICTs),279,2021
+LC518,Digital Animation Production (portfolio),LC,Limerick Institute of Technology,Information and Communication Technologies (ICTs),807,2021
+LC612,Social Care Work,LC,Limerick Institute of Technology,Welfare,309,2021
+LM002,Arts,LM,University of Limerick,Humanities (except languages),360,2021
+LM019,Social Sciences,LM,University of Limerick,Social and behavioural sciences,451,2021
+LM020,Law and Accounting,LM,University of Limerick,Law,474,2021
+LM026,Performing Arts (audition format TBC),LM,University of Limerick,Arts,329,2021
+LM028,Criminal Justice,LM,University of Limerick,Law,420,2021
+LM029,Law Plus,LM,University of Limerick,Law,530,2021
+LM038,Psychology and Sociology,LM,University of Limerick,Social and behavioural sciences,530,2021
+LM039,Journalism and Digital Communication,LM,University of Limerick,Journalism and information,432,2021
+LM040,European Studies,LM,University of Limerick,Humanities (except languages),409,2021
+LM044,Applied Languages,LM,University of Limerick,Languages,429,2021
+LM050,Business Studies (options),LM,University of Limerick,Business and administration,451,2021
+LM056,International Business,LM,University of Limerick,Business and administration,555,2021
+LM058,Financial Mathematics,LM,University of Limerick,Mathematics and statistics,468,2021
+LM063,Technology Management,LM,University of Limerick,Information and Communication Technologies (ICTs),410,2021
+LM066,Environmental Science,LM,University of Limerick,Environment,430,2021
+LM068,Food Science and Health,LM,University of Limerick,Manufacturing and processing,464,2021
+LM076,Product Design and Technology (portfolio required),LM,University of Limerick,Manufacturing and processing,401,2021
+LM077,Aeronautical Engineering,LM,University of Limerick,Engineering and engineering trades,567,2021
+LM082,Construction Management and Engineering,LM,University of Limerick,Architecture and construction,446,2021
+LM089,Sport and Exercise Sciences,LM,University of Limerick,Personal services,498,2021
+LM090,Physical Education with concurrent Teacher Education,LM,University of Limerick,Education,552,2021
+LM091,Languages with concurrent Teacher Education,LM,University of Limerick,Education,506,2021
+LM092,Science with Teacher Ed (Biology with Physics/Chemistry/Ag Science),LM,University of Limerick,Education,521,2021
+LM093,Equine Science,LM,University of Limerick,Biological and related sciences,367,2021
+LM094,Materials and Architectural Technology with concurrent Teacher Education,LM,University of Limerick,Education,475,2021
+LM095,Materials and Engineering Technology with concurrent Teacher Education,LM,University of Limerick,Education,425,2021
+LM096,Science with Teacher Ed (Physical Sciences with Chemistry and Physics),LM,University of Limerick,Education,454,2021
+LM097,Mathematics and Computer Science with concurrent Teacher Education,LM,University of Limerick,Mathematics and statistics,465,2021
+LM099,Architecture,LM,University of Limerick,Architecture and construction,520,2021
+LM100,Physiotherapy,LM,University of Limerick,Health,613,2021
+LM101,Medicine  - Graduate Entry (GAMSAT required),LM,University of Limerick,Health,57,2021
+LM102,Psychology,LM,University of Limerick,Social and behavioural sciences,534,2021
+LM103,Paramedic Studies (Full B/Provisional C1 Drivers Licence),LM,University of Limerick,Health,429,2021
+LM105,Exercise and Health Fitness Management,LM,University of Limerick,Personal services,441,2021
+LM115,Chemical and Biochemical Engineering,LM,University of Limerick,Physical sciences,476,2021
+LM116,Engineering (Biomedical/Civil/Design and Manufacture/Mechanical),LM,University of Limerick,Engineering and engineering trades,498,2021
+LM118,Electronic and Computer Engineering,LM,University of Limerick,Engineering and engineering trades,445,2021
+LM121,Computer Science (Computer Systems/Games Dev/Mobile Comm Security),LM,University of Limerick,Information and Communication Technologies (ICTs),402,2021
+LM122,Creative Media and Interaction Design (Digital Design/Music Media Tech),LM,University of Limerick,Information and Communication Technologies (ICTs),382,2021
+LM123,Biological and Chemical Sc. (Biosci/Envir Sci/Ind Bio/Pharma and In,LM,University of Limerick,Biological and related sciences,498,2021
+LM124,Mathematics (Math Science/Maths and Physics/Economics and Maths),LM,University of Limerick,Mathematics and statistics,455,2021
+LM125,Physics (Applied Physics or Mathematics and Physics),LM,University of Limerick,Physical sciences,489,2021
+LM150,General Nursing,LM,University of Limerick,Health,498,2021
+LM152,Mental Health Nursing,LM,University of Limerick,Health,478,2021
+LM154,Intellectual Disability Nursing,LM,University of Limerick,Health,462,2021
+LM156,Midwifery,LM,University of Limerick,Health,521,2021
+MU001,Theology and Arts,MU,"Pontifical University, St Patrick's College",Interdisciplinary programmes and qualifications involving arts and humanities,294,2021
+MH001,Education - Primary Teaching (Froebel),MH,Maynooth University,Education,564,2021
+MH003,Early Childhood - Teaching and Learning (full-time),MH,Maynooth University,Education,381,2021
+MH101,Arts,MH,Maynooth University,Humanities (except languages),338,2021
+MH103,Music,MH,Maynooth University,Arts,#,2021
+MH106,Psychology - 3 years,MH,Maynooth University,Social and behavioural sciences,554,2021
+MH107,Social Science,MH,Maynooth University,Social and behavioural sciences,390,2021
+MH109,Media Studies,MH,Maynooth University,Arts,324,2021
+MH116,Community and Youth Work (Full-Time),MH,Maynooth University,Welfare,#,2021
+MH201,Science,MH,Maynooth University,"Interdisciplinary programmes and qualifications involving natural sciences, Mathematics and statistics",401,2021
+MH202,Biotechnology,MH,Maynooth University,Biological and related sciences,490,2021
+MH203,Biological and Geographical Sciences,MH,Maynooth University,Biological and related sciences,451,2021
+MH204,Physics with Astrophysics,MH,Maynooth University,Physical sciences,422,2021
+MH206,Theoretical Physics and Mathematics,MH,Maynooth University,Mathematics and statistics,521,2021
+MH207,Data Science,MH,Maynooth University,Information and Communication Technologies (ICTs),444,2021
+MH208,Biological and Biomedical Sciences,MH,Maynooth University,Biological and related sciences,543,2021
+MH209,Psychology (through Science) - 4 years,MH,Maynooth University,Social and behavioural sciences,529,2021
+MH210,Pharmaceutical and Biomedical Chemistry,MH,Maynooth University,Physical sciences,510,2021
+MH212,Science|Maths and Computer Science|Mathematics (with Education),MH,Maynooth University,"Interdisciplinary programmes and qualifications involving natural sciences, Mathematics and statistics",452,2021
+MH304,Engineering (Computer/Electronic/Communications),MH,Maynooth University,Engineering and engineering trades,351,2021
+MH305,Product Design,MH,Maynooth University,Engineering and engineering trades,326,2021
+MH306,Robotics and Intelligent Devices,MH,Maynooth University,Engineering and engineering trades,362,2021
+MH401,Finance (options),MH,Maynooth University,Business and administration,370,2021
+MH402,Quantitative Finance,MH,Maynooth University,Business and administration,476,2021
+MH403,Accounting and Finance,MH,Maynooth University,Business and administration,424,2021
+MH404,Business (options),MH,Maynooth University,Business and administration,441,2021
+MH407,Business and Accounting,MH,Maynooth University,Business and administration,423,2021
+MH411,Entrepreneurship,MH,Maynooth University,Business and administration,378,2021
+MH501,LLB Law - four year Single Major Law programme,MH,Maynooth University,Law,507,2021
+MH502,Law (options),MH,Maynooth University,Law,465,2021
+MH601,Computer Science through Arts (options),MH,Maynooth University,Information and Communication Technologies (ICTs),381,2021
+MH602,Computer Science through Science (options),MH,Maynooth University,Information and Communication Technologies (ICTs),400,2021
+MH603,Computational Thinking,MH,Maynooth University,Information and Communication Technologies (ICTs),520,2021
+MH801,Early Childhood - Teaching and Learning (part-time),MH,Maynooth University,Education,AQA,2021
+AS001,"Education, Home Economics and Biology - with concurrent Teacher Ed",AS,St. Angela`s College,Education,542,2021
+AS002,"Education, Home Economics and Religious Ed - with concurrent Teacher Ed",AS,St. Angela`s College,Education,464,2021
+AS003,"Education, Home Economics and Irish - with concurrent Teacher Ed",AS,St. Angela`s College,Education,463,2021
+AS051,"Nutrition, Food and Business Management",AS,St. Angela`s College,Business and administration,378,2021
+AS054,Home Economics,AS,St. Angela`s College,Biological and related sciences,440,2021
+AS110,General Nursing,AS,St. Angela`s College,Health,440,2021
+AS130,Intellectual Disability Nursing,AS,St. Angela`s College,Health,387,2021
+SG141,Business,SG,"Institute of Technology, Sligo",Business and administration,262,2021
+SG145,Business and ICT,SG,"Institute of Technology, Sligo",Business and administration,279,2021
+SG146,Accounting,SG,"Institute of Technology, Sligo",Business and administration,304,2021
+SG147,Sport with Business,SG,"Institute of Technology, Sligo",Personal services,288,2021
+SG148,Tourism with Event Management,SG,"Institute of Technology, Sligo",Personal services,298,2021
+SG150,Business in Marketing,SG,"Institute of Technology, Sligo",Business and administration,298,2021
+SG241,Performing Arts,SG,"Institute of Technology, Sligo",Arts,341,2021
+SG242,Early Childhood Care and Education,SG,"Institute of Technology, Sligo",Welfare,287,2021
+SG243,Social Care Practice,SG,"Institute of Technology, Sligo",Welfare,309,2021
+SG244,Fine Art,SG,"Institute of Technology, Sligo",Arts,501,2021
+SG245,Creative Design,SG,"Institute of Technology, Sligo",Arts,332,2021
+SG246,Computing,SG,"Institute of Technology, Sligo",Information and Communication Technologies (ICTs),316,2021
+SG247,English and Psychology,SG,"Institute of Technology, Sligo",Social and behavioural sciences,319,2021
+SG248,Sociology and Politics,SG,"Institute of Technology, Sligo",Social and behavioural sciences,298,2021
+SG249,Writing and Literature,SG,"Institute of Technology, Sligo",Languages,308,2021
+SG252,Software Development,SG,"Institute of Technology, Sligo",Information and Communication Technologies (ICTs),310,2021
+SG253,Computing in Computer Networks and Cyber Security,SG,"Institute of Technology, Sligo",Information and Communication Technologies (ICTs),336,2021
+SG254,Writing and Literature Online,SG,"Institute of Technology, Sligo",Languages,327,2021
+SG255,Law and Business,SG,"Institute of Technology, Sligo",Law,291,2021
+SG341,General Engineering,SG,"Institute of Technology, Sligo",Engineering and engineering trades,373,2021
+SG342,Civil Engineering,SG,"Institute of Technology, Sligo",Architecture and construction,418,2021
+SG343,Quantity Surveying,SG,"Institute of Technology, Sligo",Architecture and construction,300,2021
+SG344,Mechanical Engineering,SG,"Institute of Technology, Sligo",Engineering and engineering trades,412,2021
+SG346,Construction Project Management and Applied Technology,SG,"Institute of Technology, Sligo",Architecture and construction,313,2021
+SG347,Architecture,SG,"Institute of Technology, Sligo",Architecture and construction,403,2021
+SG348,Interior Architecture and Design,SG,"Institute of Technology, Sligo",Architecture and construction,359,2021
+SG350,Robotics and Automation,SG,"Institute of Technology, Sligo",Engineering and engineering trades,384,2021
+SG442,Occupational Safety and Health,SG,"Institute of Technology, Sligo",Hygiene and occupational health services,307,2021
+SG443,Human Nutrition,SG,"Institute of Technology, Sligo",Health,376,2021
+SG444,Science Undenominated,SG,"Institute of Technology, Sligo",Biological and related sciences,358,2021
+SG445,Pharmaceutical Science with Drug Development,SG,"Institute of Technology, Sligo",Physical sciences,357,2021
+SG447,Health Science and Physical Activity,SG,"Institute of Technology, Sligo",Health,326,2021
+SG448,Forensic Investigation and Analysis,SG,"Institute of Technology, Sligo",Biological and related sciences,308,2021
+SG449,Medical Biotechnology,SG,"Institute of Technology, Sligo",Health,315,2021
+SG450,Environmental Science with Ecology (Level 8),SG,"Institute of Technology, Sligo",Environment,310,2021
+TL801,"Animation, Visual Effects and Motion Design (Level 8, portfolio)",TL,"Institute of Technology, Tralee",Arts,718,2021
+TL802,"TV, Radio and New Media (Level 8)",TL,"Institute of Technology, Tralee",Arts,322,2021
+TL810,Computing with Software Development,TL,"Institute of Technology, Tralee",Information and Communication Technologies (ICTs),308,2021
+TL811,Computing with Games Development,TL,"Institute of Technology, Tralee",Information and Communication Technologies (ICTs),322,2021
+TL815,Computing (Degree Award options),TL,"Institute of Technology, Tralee",Information and Communication Technologies (ICTs),307,2021
+TL823,Event Management (3 year programme),TL,"Institute of Technology, Tralee",Personal services,293,2021
+TL831,Business Studies (Major Specialism in: Acctng or Mktg or Mgmnt),TL,"Institute of Technology, Tralee",Business and administration,306,2021
+TL844,Agricultural Engineering,TL,"Institute of Technology, Tralee","Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",301,2021
+TL845,Civil Engineering,TL,"Institute of Technology, Tralee",Architecture and construction,361,2021
+TL847,Manufacturing Engineering,TL,"Institute of Technology, Tralee",Manufacturing and processing,305,2021
+TL848,Agricultural Science,TL,"Institute of Technology, Tralee","Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",307,2021
+TL851,Wildlife Biology (Degree Award options),TL,"Institute of Technology, Tralee",Environment,309,2021
+TL855,Pharmaceutical Science (Degree Award options),TL,"Institute of Technology, Tralee",Health,316,2021
+TL858,Veterinary Bioscience,TL,"Institute of Technology, Tralee",Veterinary,317,2021
+TL871,Health and Leisure (Degree Award options),TL,"Institute of Technology, Tralee",Personal services,303,2021
+TL872,Health and Leisure with Massage,TL,"Institute of Technology, Tralee",Personal services,314,2021
+TL873,Coaching and Sports Performance,TL,"Institute of Technology, Tralee",Personal services,308,2021
+TL874,Inclusive Sport and Physical Activity,TL,"Institute of Technology, Tralee",Personal services,341,2021
+TL880,Early Childhood Care and Education,TL,"Institute of Technology, Tralee",Welfare,309,2021
+TL881,Social Care,TL,"Institute of Technology, Tralee",Welfare,301,2021
+TL890,General Nursing and Mature Applicants,TL,"Institute of Technology, Tralee",Health,463,2021
+TL891,Mental Health Nursing and Mature Applicants,TL,"Institute of Technology, Tralee",Health,440,2021
+WD001,Applied Computing (options),WD,Waterford Institute of Technology,Information and Communication Technologies (ICTs),270,2021
+WD002,Science (options),WD,Waterford Institute of Technology,Biological and related sciences,279,2021
+WD005,Health Sciences (options),WD,Waterford Institute of Technology,Health,271,2021
+WD006,Exercise Sciences (options),WD,Waterford Institute of Technology,Personal services,270,2021
+WD007,Engineering (options),WD,Waterford Institute of Technology,Engineering and engineering trades,270,2021
+WD025,Construction Management and Engineering,WD,Waterford Institute of Technology,Architecture and construction,262,2021
+WD027,Music,WD,Waterford Institute of Technology,Arts,321,2021
+WD048,Business (options),WD,Waterford Institute of Technology,Business and administration,279,2021
+WD084,Accounting,WD,Waterford Institute of Technology,Business and administration,308,2021
+WD091,Hospitality Management,WD,Waterford Institute of Technology,Personal services,225,2021
+WD116,General Nursing,WD,Waterford Institute of Technology,Health,446,2021
+WD117,Psychiatric Nursing,WD,Waterford Institute of Technology,Health,415,2021
+WD120,Intellectual Disability Nursing,WD,Waterford Institute of Technology,Health,390,2021
+WD134,International Business,WD,Waterford Institute of Technology,Business and administration,267,2021
+WD137,Design (Visual Communications),WD,Waterford Institute of Technology,Arts,252,2021
+WD140,Laws,WD,Waterford Institute of Technology,Law,280,2021
+WD144,Architecture,WD,Waterford Institute of Technology,Architecture and construction,309,2021
+WD147,Pharmaceutical Science,WD,Waterford Institute of Technology,Physical sciences,288,2021
+WD150,Criminal Justice Studies,WD,Waterford Institute of Technology,Law,280,2021
+WD152,Visual Art,WD,Waterford Institute of Technology,Arts,243,2021
+WD161,Computer Forensics and Security,WD,Waterford Institute of Technology,Information and Communication Technologies (ICTs),270,2021
+WD162,Quantity Surveying,WD,Waterford Institute of Technology,Architecture and construction,226,2021
+WD163,Psychology,WD,Waterford Institute of Technology,Social and behavioural sciences,456,2021
+WD186,Sports Coaching and Performance,WD,Waterford Institute of Technology,Personal services,261,2021
+WD187,Social Science,WD,Waterford Institute of Technology,Welfare,276,2021
+WD191,Agricultural Science,WD,Waterford Institute of Technology,Agriculture,377,2021
+WD192,Social Care Practice,WD,Waterford Institute of Technology,Welfare,271,2021
+WD193,Marketing and Digital Media,WD,Waterford Institute of Technology,Business and administration,279,2021
+WD194,Culinary Arts,WD,Waterford Institute of Technology,Personal services,237,2021
+WD195,Architectural and Building Information Modelling Technology,WD,Waterford Institute of Technology,Architecture and construction,279,2021
+WD200,Arts (options),WD,Waterford Institute of Technology,Arts,201,2021
+WD210,Software Systems Development,WD,Waterford Institute of Technology,Information and Communication Technologies (ICTs),260,2021
+WD211,Creative Computing,WD,Waterford Institute of Technology,Information and Communication Technologies (ICTs),270,2021
+WD212,Recreation and Sport Management,WD,Waterford Institute of Technology,Personal services,262,2021
+WD230,Mechanical and Manufacturing Engineering,WD,Waterford Institute of Technology,Engineering and engineering trades,230,2021
+WD231,Early Childhood Care and Education,WD,Waterford Institute of Technology,Welfare,266,2021
+WD232,Business Information Systems,WD,Waterford Institute of Technology,Business and administration,261,2021
