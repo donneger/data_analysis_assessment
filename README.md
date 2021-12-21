@@ -18,7 +18,9 @@ The project introduces the key concepts for creating chart outputs for datasets 
 #### Running the Project
 1. Python, as well as the python packages matplotlib, numpy, numpy random and pandas should be available on the local machine, if not it is recommended to install Ananconda https://www.anaconda.com/products/individual which contains the majority of commonly used python packages. 
 2. The project can be downloaded from the repository, both the pyplot.ipynb and phototest.jpg should be located in the same folder. 
-3. Open a Jupyter notebook or Jupyter lab session and run the pyplot notebook, the code will run from start to finish without any user interaction needed. The various plots can be viewed in the notebook and a sample plots image is also output to the local folder. If necessary Jupyter can be installed from https://jupyterlab.readthedocs.io/en/latest/getting_started/installation.html. 
+3. Open a Jupyter notebook or Jupyter lab session and run the pyplot notebook, the code will run from start to finish without any user interaction needed. 
+4. The various plots can be viewed in the notebook and a sample plots image is also output to the local folder. 
+5. If necessary Jupyter can be installed from https://jupyterlab.readthedocs.io/en/latest/getting_started/installation.html. 
 
 ### Project 2. CAO Points 2019 - 2021. 
 #### Project Summary
@@ -33,4 +35,5 @@ The project takes the points data from each of the three years to create a conso
 #### Running the Project
 1. As per Project 1 it is recommended to install Anaconda if not already installed on the local machine. 
 2. The project can be downloaded from the repository, both the cao.ipynb notebook and the CAO_Data folder should be located in the same folder. 
-3. Open a Jupyter notebook or Jupyter lab session and run the cao.ipynb notebook, the code will run from start to finish without any user interaction needed. The various plots can be viewed in the notebook and a the resulting datasets are output to the CAO_Data folder. 
+3. Open a Jupyter notebook or Jupyter lab session and run the cao.ipynb notebook, the code will run from start to finish without any user interaction needed. See above in Project 1 the link for instruction on installing Jupyter if needed. 
+4. The various plots can be viewed in the notebook and a the resulting datasets are output to the CAO_Data folder. 
